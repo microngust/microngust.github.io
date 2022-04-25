@@ -1,14 +1,5 @@
 <h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="section">2022</h2>
-<h3 id="apr-22-fri">Apr 22 (Fri)</h3>
-<ul>
-<li>RHX, Mainstreet, Hopkins, 9 PM</li>
-</ul>
-<h3 id="apr-23-sat">Apr 23 (Sat)</h3>
-<ul>
-<li>Powerglove w/ Immortal Guardian 7 th St Entry, 9 PM / $17 (at door)</li>
-<li>Fleetwood Mac Tribute (Pamela McNeill/Mary Jane Alm/Jeff Engholm, Ames Ctr, Burnsville, 8 PM / $35-45</li>
-</ul>
 <h3 id="apr-26-tue">Apr 26 (Tue)</h3>
 <ul>
 <li>Apocalyptica w/Lacuna Coil, First Avenue, Mpls, 8 PM (<a href="https://www.axs.com/events/398149/apocalyptica-tickets">https://www.axs.com/events/398149/apocalyptica-tickets</a>)</li>
