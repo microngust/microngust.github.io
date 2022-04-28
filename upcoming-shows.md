@@ -22,6 +22,7 @@ Lita Ford/Jack Russell's Great White, Medina Entertainment Center, Medina, Doors
 - OMD, Fillmore, Mpls, 7 PM / $34-200
 
 ### May 13 (Fri)
+- Nightwish, Fillmore, Mpls, 6 PM
 - RHX, Ziggy's, Stillwater, 8:30 PM
 - Analog Vibe, Serum's, Anoka, 9 PM
 
