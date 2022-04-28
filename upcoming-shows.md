@@ -48,7 +48,7 @@ Lita Ford/Jack Russell's Great White, Medina Entertainment Center, Medina, Doors
 - The Stadium Tour (ONLINE) w/Motley Crue/Def Leppard/Poison/Joan Jet, 6 PM - 10:45 PM
 
 ### Jun 25 (Sat)
-- Stryper, Summerfest, Milwauke WI, 7 PM
+- Stryper, Summerfest, Milwaukee WI, 7 PM
 
 ### Jul 8 (Fri)
 -  Sammy Hagar/Collective Soul/Uncle Kracker, Lakefront Music Fest, Prior Lake, 5 PM (https://www.lakefrontmusicfest.com/lineup.html)
