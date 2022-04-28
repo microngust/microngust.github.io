@@ -44,6 +44,9 @@ Lita Ford/Jack Russell's Great White, Medina Entertainment Center, Medina, Doors
 - Back to the 80s Car Show, Buck Hill, Burnsville, 10 AM - 5 PM
 - Cancerslug with They Live, The Bloodies, and DJ Dan Lansing
 
+### Jun 25 (Sat)
+- Stryper, Summerfest, Milwauke WI, 7 PM
+
 ### Jun 19 (Sun)
 - The Stadium Tour (ONLINE) w/Motley Crue/Def Leppard/Poison/Joan Jet, 6 PM - 10:45 PM
 
