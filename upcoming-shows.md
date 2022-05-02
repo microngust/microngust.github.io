@@ -52,7 +52,7 @@ Lita Ford/Jack Russell's Great White, Medina Entertainment Center, Medina, Doors
 - Stryper, Summerfest, Milwaukee WI, 7 PM
 
 ###  JUN 26 (Sun)
-Junk FM, Water Ski Days, Lake City, 7:30 PM
+- Junk FM, Water Ski Days, Lake City, 7:30 PM
 
 ### Jul 8 (Fri)
 -  Sammy Hagar/Collective Soul/Uncle Kracker, Lakefront Music Fest, Prior Lake, 5 PM (https://www.lakefrontmusicfest.com/lineup.html)
