@@ -2,18 +2,6 @@
 
 ## 2022
 
-### Apr 29 (Fri)
-- Beast in Black/Striker/Seven Kingdoms, The Fine Line, Mpls, 8:30
-- Graveyard Club, Mid West Music Fest, Winona, MN
-
-### Apr 30 (Sat)
-Lita Ford/Jack Russell's Great White, Medina Entertainment Center, Medina, Doors: 7 pm / Show: 8 pm
-- Junk FM, The Lookout, Maple Grove, 9 PM
-- 90s Bar Crawl, Wild Greg's, Mpls, 3 PM
-
-### May 2 (Mon)
-- Dorothy, Varsity, Mpls, 8:00/ $25-$82
-
 ### May 6 - 8 (Fri-Sun)
 - M3 Rock Festival, Merriweather Post Pavilion, Columbia, MD
 
@@ -70,7 +58,7 @@ Lita Ford/Jack Russell's Great White, Medina Entertainment Center, Medina, Doors
 
 
 ### Jul 21 - 23 (Thur - Sat)
-- Moondance - Bret Michaels/Collective Soul/Tommy DeCario (Boston)/Revisiting Creedence, Walker, MN (https://www.moondancejam.com/info.html)
+- Moondance - Bret Michaels/Collective Soul/Tommy DeCarlo (Boston)/Revisiting Creedence, Walker, MN (https://www.moondancejam.com/info.html)
 
 ### Jul 21 - 23
 - Twin Cities Summer Jam, Caterbury Park, (https://tcsummerjam.frontgatetickets.com/)
