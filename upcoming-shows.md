@@ -113,6 +113,8 @@
 ### Jun 22 (Wed) - Lakes Jam
 - Hairball, Lakes Jam, Brainerd, 9 PM
 
+### Jun 23 - 25 - Summerfest WI
+
 ### Jun 25 (Sat)
 - Störmbreaker/Black Flood Diesel/Rebel Queens/Trigger Armada, The Doghouse, Maplewood, 7:30 PM
 - Stryper, Summerfest, Milwaukee WI, 7 PM
@@ -122,11 +124,15 @@
 ###  Jun 26 (Sun)
 - Junk FM, Water Ski Days, Lake City, 7:30 PM
 
+### Jul 30 - 2 - Summerfest WI
+
 ### Jul 3 (Sun) - 4th of July Weekend
 - Hairball (7 PM) / Bad Girlfriends 3:45 PM, Bayfront Festival, Duluth
 
 ### Jul 4 (Mon) - 4th of July Weekend
 - 70's Magic Sunshine Band, Eagan 4th of July Funfest, Eagan Community Center festival grounds, Eagan, 8 PM (Fireworks @ 10 PM) (https://eaganfunfest.org/)
+
+### Jul 7 - 9 - Summerfest WI
 
 ### Jul 7 (Thu)
 - The Crown Jewels (Queen), St. Croix Boat & Dinner Cruise 525 Main Street South  Stillwater, 7 PM
@@ -152,6 +158,9 @@
 ### Jul 15 (Fri) 
 - Hairball, Northwest Water Carnival on the Beach, Detroit Lakes, 6 PM
 - Arch Allies (Outdoor Concert), Stillwater Bowl, Stillwater, 6 PM
+
+### Jul 16 (Sat)
+- Time Machine, Spring Creek Motocross, Millville
 
 ### Jul 17 (Sun)
 - 70's Magic Sunshine Band, Lord Fletcher's Patio, Spring Park, 3 PM
@@ -193,6 +202,9 @@
 - Stone Daisy, Ziggy's, Stillwater, 8 PM
 - TPK, Washington County Fair 12300 40th St N, Stillwater, 7 PM
 
+### Aug 6 (Sat)
+- Anthrax/Black Label Society, Fillmore, Mpls, 6 PM, $49/50
+
 ### Aug 12th (Fri)
 - SWAG, Champps, Eden Prairie, 6 -10 PM
 - Pandemic, Route 47, 8 PM
@@ -229,11 +241,10 @@
 - REO Speedwagon/Styx/Levon, Grandstand @ MN State Fair, 7 PM, $51 & $41
 - SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
 
-### Sep 2 - 4 (Fri - Sun)
-- Zac Brown Band/Robert Randolph, Grandstand @ MN State Fair, 7 PM, $194, $106, $96 & $75
-- Rocklahoma, Pryor, OK
+### Sep 2 - 4 (Fri - Sun) Rocklahoma, OK
 
 ### Sep 2 (Fri)
+- Zac Brown Band/Robert Randolph, Grandstand @ MN State Fair, 7 PM, $194, $106, $96 & $75, (https://www.mnstatefair.org/grandstand/zac-brown-band/)
 - Stone Daisy, Champps, Eden Prairie, 7 PM
 
 ### Sep 3 (Sat)
@@ -250,6 +261,7 @@
   - Sat: Tom Keifer / Winger / Tony Harnell (TNT) / Ron Keel / Lillian Axe / Liliac / Killer Dwarfs / Burning Witches
 
 ### Sep 11 (Sun)
+- Gary Numan/I Speak Machine, First Ave, Mpls, 8 PM, $25
 - SWAG Rooftop Concert Series, Hewing Hotel, Mpls, 6-9:30 PM
 
 ### Sept 23 (Fri)
