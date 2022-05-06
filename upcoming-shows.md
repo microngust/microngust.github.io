@@ -169,7 +169,7 @@
 - Moondance - Bret Michaels/Collective Soul/Tommy DeCarlo (Boston)/Revisiting Creedence, Walker, MN (https://www.moondancejam.com/info.html)
 
 ### Jul 21 - 23 (Thur - Sat) - Twin Cities Summer Jam
-- Twin Cities Summer Jam, Caterbury Park, (https://tcsummerjam.frontgatetickets.com/)
+- Twin Cities Summer Jam, Canterbury Park, (https://tcsummerjam.frontgatetickets.com/)
   - Headliners: Hairball / Blake Shelton / Kane Brown
   - Openers: Trace Adkins / Nelly / 38 Special / Elvie Shane / Kidd G, Callista Clark / Restless Road / Fabulous Armadillos / Mason Dixon Line / Anderson Daniels
 
