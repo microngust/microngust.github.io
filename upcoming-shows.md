@@ -97,10 +97,14 @@
 ### Jun 16 (Thu)
 - 70's Magic Sunshine Band, Lord Fletchers, Lake Minnetonka, 6 -9 PM
 
+### Jun 17 (Fri) - Rock the Valley
+- Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam
+
 ### Jun 17 (Fri)
 - KoBb/Plague of Stars/Caster Volor, Route 47, Fridley, 8 PM
 - Johnny Holm, Rockin' Rogers Days, Rogers, 8:30 PM
 - 70's Magic Sunshine, MN Music Cafe,  7 PM
+- 2022 !
 
 ### Jun 18 (Sat)
 - Hairball, Rockin' Rogers, Rogers, 8 PM
