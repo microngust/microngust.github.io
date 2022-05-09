@@ -83,7 +83,6 @@
 - KoBb/Plague of Stars/Caster Volor, Route 47, Fridley, 8 PM
 - Johnny Holm, Rockin' Rogers Days, Rogers, 8:30 PM
 - 70's Magic Sunshine, MN Music Cafe,  7 PM
-- 2022 !
 
 ### Jun 18 (Sat)
 - Hairball, Rockin' Rogers, Rogers, 8 PM
@@ -96,18 +95,23 @@
 ### Jun 22 (Wed) - Lakes Jam
 - Hairball, Lakes Jam, Brainerd, 9 PM
 
-### Jun 23 - 25 - Summerfest WI
+### Jun 23 - 25 - Summerfest (Milwaukee, WI)
+- Jun 25:
+  - 4:15 PM: Stryper
+  - 6:15 PM: Stephen Pearcy
+  - 8:15 PM: Great White
+  - 9:30 PM: Ann Wilson
+  - 10:15 PM: Slaughter
 
 ### Jun 25 (Sat)
 - Störmbreaker/Black Flood Diesel/Rebel Queens/Trigger Armada, The Doghouse, Maplewood, 7:30 PM
-- Stryper, Summerfest, Milwaukee WI, 7 PM
 - Unicorn, Route 65, East Bethel 9 PM
 - The Crown Jewels (Queen), Blaine Festival, 26th @ Aquatore Park, Blaine, 3 PM
 
 ### Jun 26 (Sun)
 - Junk FM, Water Ski Days, Lake City, 7:30 PM
 
-### Jul 30 - 2 - Summerfest WI
+### Jul 30 - 2 - Summerfest (Milwaukee, WI)
 
 ### Jul 3 (Sun) - 4th of July Weekend
 - Hairball (7 PM) / Bad Girlfriends 3:45 PM, Bayfront Festival, Duluth
@@ -115,7 +119,7 @@
 ### Jul 4 (Mon) - 4th of July Weekend
 - 70's Magic Sunshine Band, Eagan 4th of July Funfest, Eagan Community Center festival grounds, Eagan, 8 PM (Fireworks @ 10 PM) (https://eaganfunfest.org/)
 
-### Jul 7 - 9 - Summerfest WI
+### Jul 7 - 9 - Summerfest (Milwaukee, WI)
 
 ### Jul 7 (Thu)
 - The Crown Jewels (Queen), St. Croix Boat & Dinner Cruise 525 Main Street South  Stillwater, 7 PM
@@ -146,18 +150,18 @@
 - Time Machine, Spring Creek Motocross, Millville
 
 ### Jul 17 (Fri) - Rock the Valley
-- Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam
+- Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam (https://www.redrivervalleyfair.com/p/tickets)
 
 ### Jul 17 (Sun)
 - 70's Magic Sunshine Band, Lord Fletcher's Patio, Spring Park, 3 PM
 
-### Jul 21 - 23 (Thur - Sat) - Moondance
-- Moondance - Bret Michaels/Collective Soul/Tommy DeCarlo (Boston)/Revisiting Creedence, Walker, MN (https://www.moondancejam.com/info.html)
+### Jul 21 - 23 (Thu - Sat) - Moondance
+- Bret Michaels/Collective Soul/Tommy DeCarlo (Boston)/Revisiting Creedence, Walker, MN (https://www.moondancejam.com/info.html)
 
-### Jul 21 - 23 (Thur - Sat) - Twin Cities Summer Jam
-- Twin Cities Summer Jam, Canterbury Park, (https://tcsummerjam.frontgatetickets.com/)
+### Jul 21 - 23 (Thu - Sat) - Twin Cities Summer Jam (Canterbury Park)
   - Headliners: Hairball / Blake Shelton / Kane Brown
   - Openers: Trace Adkins / Nelly / 38 Special / Elvie Shane / Kidd G, Callista Clark / Restless Road / Fabulous Armadillos / Mason Dixon Line / Anderson Daniels
+  - https://tcsummerjam.frontgatetickets.com/
 
 ### Jul 22 (Fri)
 - 70's Magic Sunshine Band, PD Pappy's, Stillwater, 8 PM
@@ -210,7 +214,7 @@
 - Verge @ Shakopee JACS JAM, Marystown Church, Shakopee, 7 PM
 
 ### Aug 25 (Thu)
-- Alice In Chains/Breaking Benjamin/Bush, Grandstand @ MN State Fair, 5:30 PM, $79, $62, $53 & $36 (GA pit, reserved floor and mainstand)
+- Alice In Chains/Breaking Benjamin/Bush, Grandstand @ MN State Fair, 5:30 PM, $79, $62, $53 & $36 (GA pit, reserved floor and grandstand)
 - SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
 
 ### Aug 26 (Fri)
@@ -228,6 +232,7 @@
 - SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
 
 ### Sep 2 - 4 (Fri - Sun) Rocklahoma, OK
+- Lineup not yet announced
 
 ### Sep 2 (Fri)
 - Zac Brown Band/Robert Randolph, Grandstand @ MN State Fair, 7 PM, $194, $106, $96 & $75, (https://www.mnstatefair.org/grandstand/zac-brown-band/)
@@ -255,7 +260,7 @@
 
 ### Sep 24 (Sat)
 - SWAG, The Narrows, Wayzata, 8 PM-12 AM
--
+
 ### Oct 1 (Sat)
 - Unicorn, Lookout Bar & Grill, 9 PM
 
