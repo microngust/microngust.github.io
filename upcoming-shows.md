@@ -97,9 +97,6 @@
 ### Jun 16 (Thu)
 - 70's Magic Sunshine Band, Lord Fletchers, Lake Minnetonka, 6 -9 PM
 
-### Jun 17 (Fri) - Rock the Valley
-- Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam
-
 ### Jun 17 (Fri)
 - KoBb/Plague of Stars/Caster Volor, Route 47, Fridley, 8 PM
 - Johnny Holm, Rockin' Rogers Days, Rogers, 8:30 PM
@@ -125,7 +122,7 @@
 - Unicorn, Route 65, East Bethel 9 PM
 - The Crown Jewels (Queen), Blaine Festival, 26th @ Aquatore Park, Blaine, 3 PM
 
-###  Jun 26 (Sun)
+### Jun 26 (Sun)
 - Junk FM, Water Ski Days, Lake City, 7:30 PM
 
 ### Jul 30 - 2 - Summerfest WI
@@ -156,21 +153,23 @@
   * Fri: Evenescence / Hailstorm
   - Sat: Shinedown / Mudvayne
 
-### Jul 13 (Wed) 
+### Jul 13 (Wed)
 - The Crown Jewels (Queen), Rhythm on the Rails, Lewis Street, Downtown Shakopee, 7:30 PM
 
-### Jul 15 (Fri) 
+### Jul 15 (Fri)
 - Hairball, Northwest Water Carnival on the Beach, Detroit Lakes, 6 PM
 - Arch Allies (Outdoor Concert), Stillwater Bowl, Stillwater, 6 PM
 
 ### Jul 16 (Sat)
 - Time Machine, Spring Creek Motocross, Millville
 
+### Jul 17 (Fri) - Rock the Valley
+- Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam
+
 ### Jul 17 (Sun)
-- Rock the Valley w/
 - 70's Magic Sunshine Band, Lord Fletcher's Patio, Spring Park, 3 PM
 
-### Jul 21 - 23 (Thur - Sat) - Moondance 
+### Jul 21 - 23 (Thur - Sat) - Moondance
 - Moondance - Bret Michaels/Collective Soul/Tommy DeCarlo (Boston)/Revisiting Creedence, Walker, MN (https://www.moondancejam.com/info.html)
 
 ### Jul 21 - 23 (Thur - Sat) - Twin Cities Summer Jam
@@ -274,9 +273,9 @@
 
 ### Sep 24 (Sat)
 - SWAG, The Narrows, Wayzata, 8 PM-12 AM
-- 
+-
 ### Oct 1 (Sat)
-- Unicorn, Lookout Bar & Grill, 9 PM 
+- Unicorn, Lookout Bar & Grill, 9 PM
 
 ### Oct 14 (Fri)
 - Mania (London's ABBA Tribute), Pantages, Mpls, 8:00/ $27.50-64.50
@@ -298,7 +297,7 @@
 - Stone Daisy, Ziggy's, Hudson, 9 PM
 
 ### Dec 9 (Fri)
-- Unicorn, Lookout Bar & Grill, 9 PM 
+- Unicorn, Lookout Bar & Grill, 9 PM
 
 ### Dec 10 (Sat)
 - TPK, Forster's Dugout, Mahtomedi, 8 PM
