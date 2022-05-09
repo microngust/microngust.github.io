@@ -39,6 +39,7 @@
 - Jackson & the Burn, Lord Fletcher's, Minnetonka, 3-6 PM
 - Old Voltage, Route 47, Fridley, 8 PM
 - Heartbreaker, Neisens's, Savage, 8:30 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### May 29 (Sun) - Memorial Day Weekend
 - Hitchville, Lord Fletcher's, Minnetonka, 3-6 PM
@@ -62,6 +63,7 @@
 - Hairball Outside/TPK Inside, Elko Speedway, Elko New Market
 - Chase & Ovation, Bunkers, Mpls, 9:30 PM
 - Hollywood BLVD, Dog House, Maplewood, 9 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jun 10 (Fri)
 - Bad Girlfriends @ Father Hennepin Festival, DC Chandler Park, Champlin,  8 PM – 12 AM, (https://www.fatherhennepinfestival.com/music) (Fireworks @ 10:15 PM)
@@ -75,6 +77,7 @@
 - Fabulous Armadillos, Father Hennepin Festival, DC Chandler Park, Champlin,  9 PM – 12 AM, (https://www.fatherhennepinfestival.com/music)
 - Back to the 80s Car Show, Buck Hill, Burnsville, 10 AM - 5 PM
 - Cancerslug/They Live/The Bloodies/DJ Dan Lansing, Uptown VFW, Mpls
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jun 16 (Thu)
 - 70's Magic Sunshine Band, Lord Fletchers, Lake Minnetonka, 6 -9 PM
@@ -88,6 +91,7 @@
 - Hairball, Rockin' Rogers, Rogers, 8 PM
 - Bad Girlfriends (Outdoor Stage), Bald Man Brewing, Eagan, 4 PM
 - Stone Daisy, Strawberry Fest, Cottage Grove, 8 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jun 19 (Sun)
 - The Stadium Tour (ONLINE) w/Motley Crue/Def Leppard/Poison/Joan Jet, 6 PM - 10:45 PM
@@ -107,11 +111,15 @@
 - Störmbreaker/Black Flood Diesel/Rebel Queens/Trigger Armada, The Doghouse, Maplewood, 7:30 PM
 - Unicorn, Route 65, East Bethel 9 PM
 - The Crown Jewels (Queen), Blaine Festival, 26th @ Aquatore Park, Blaine, 3 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jun 26 (Sun)
 - Junk FM, Water Ski Days, Lake City, 7:30 PM
 
 ### Jul 30 - 2 - Summerfest (Milwaukee, WI)
+
+### Jul 2 (Sat) - 4th of July Weekend
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jul 3 (Sun) - 4th of July Weekend
 - Hairball (7 PM) / Bad Girlfriends 3:45 PM, Bayfront Festival, Duluth
@@ -131,13 +139,14 @@
 ### Jul 9 (Sat)
 -  Toby Keith/Randy Houser/Ned LeDoux, Lakefront Music Fest, Prior Lake, 5 PM (https://www.lakefrontmusicfest.com/lineup.html
 - Unicorn, Lookout Bar & Grill, 9 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jul 13 - 16 (Wed - Sat) - Rock Fest
 - Rock Fest, Cadott, WI
-  * Wed: Warrant /Lita Ford / Firehouse
-  - Thu: Disturbed / Lamb of God
-  * Fri: Evenescence / Hailstorm
-  - Sat: Shinedown / Mudvayne
+  - __Jul 13 (Wed): Warrant /Lita Ford / Firehouse__
+  - Jul 14 (Thu): Disturbed / Lamb of God
+  - __Jul 15 (Fri): Evenescence / Hailstorm__
+  - Jul 16 (Sat): Shinedown / Mudvayne
 
 ### Jul 13 (Wed)
 - The Crown Jewels (Queen), Rhythm on the Rails, Lewis Street, Downtown Shakopee, 7:30 PM
@@ -148,6 +157,7 @@
 
 ### Jul 16 (Sat)
 - Time Machine, Spring Creek Motocross, Millville
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jul 17 (Fri) - Rock the Valley
 - Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam (https://www.redrivervalleyfair.com/p/tickets)
@@ -168,6 +178,7 @@
 
 ### Jul 23 (Sat)
 - Them Pesky Kids, P.D. Pappy's, Stillwater, 8 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Jul 24 (Sun)
 - SWAG Rooftop Concert Series, Hewing Hotel, Mpls, 6-9:30 PM
@@ -183,6 +194,7 @@
 
 ### Jul 30 (Sat)
 - TPK, Mainstreet Bar, Hopkins, 8:30 PM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### Aug 4 (Thu)
 - SWAG, Lord Fletchers, Lake Minnetonka, 6 -9 PM
@@ -191,13 +203,17 @@
 ### Aug 5 (Fri)
 - Stone Daisy, Ziggy's, Stillwater, 8 PM
 - TPK, Washington County Fair 12300 40th St N, Stillwater, 7 PM
+- Coheed and Cambria/Dance Gavin Dance/Mothica, The Armory, Mpls, Doors: 5 PM / Show: 6:30 PM
 
 ### Aug 6 (Sat)
 - Anthrax/Black Label Society, Fillmore, Mpls, 6 PM, $49/50
 
-### Aug 12th (Fri)
+### Aug 12 (Fri)
 - SWAG, Champps, Eden Prairie, 6 -10 PM
 - Pandemic, Route 47, 8 PM
+
+### Aug 13 (Sat)
+- Jack White, The Armory, Mpls, Doors: 6:30 PM /Show: 8:00 PM
 
 ### Aug 14 (Sun)
 - The Stadium Tour w/Motley Crue/Def Leppard/Poison/Joan Jet, US Bank Stadium, Mpls, 4:30 PM
