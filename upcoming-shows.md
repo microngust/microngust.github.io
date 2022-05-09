@@ -2,24 +2,6 @@
 
 ## 2022
 
-### May 6 - 8 (Fri-Sun)
-- M3 Rock Festival, Merriweather Post Pavilion, Columbia, MD
-
-### May 6 (Fri)
-- The Good, The Bad & The Funky, P.D. Pappy's, Stillwater, 8 PM-12 AM
-- Show Me Your Hits, Serum's, Anoka, 9 PM
-- Blitz, Neisen's, Savage, 8:30 PM
-- 70's Magic Sunshine Band, Mainstreet Bar, Hopkins, 8:30 PM
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-- Tim Sigler, Babes, Lakeville, 9 PM - 1 AM
-- Unicorn, Route 47, Fridley, 8 PM
-
-### May 7 (Sat)
-- Godsmack w/Three Days Grace/Asking Alexandria/Wage War/Lilith Czar, Target Ctr, Mpls, 5:15 PM/ $19.93-88
-- Stereo Kitchen, Bunkers, Mpls, 9:30 PM
-- LOTL, Mainstreet Bar, Hopkins, 8:30 PM
-- OMD, Fillmore, Mpls, 7 PM / $34-200
-
 ### May 13 (Fri)
 - Nightwish/Beast in Black, Fillmore, Mpls, 6 PM
 - 80s 90s 00s Dance Party, Ground Zero, Mpls, 10 PM - 2 AM
@@ -304,4 +286,5 @@
 
 ### Dec 16 (Fri)
 - Stone Daisy, Ziggy's, Stillwater, 8 PM
+
 
