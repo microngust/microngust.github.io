@@ -98,13 +98,10 @@
 ### Jun 19 (Sun)
 - The Stadium Tour (ONLINE) w/Motley Crue/Def Leppard/Poison/Joan Jet, 6 PM - 10:45 PM
 
-### Jun 22 (Wed) - Lakes Jam
-- __Hairball__, Lakes Jam, Brainerd, 9 PM
-
 ### Jun 22 - 25 (Wed-Sat) - Lakes Jam (Brainerd)
 - https://www.lakesjam.com/lineup
 
-- __Jun 22: Hairball/The Crown Jewels__
+- __Jun 22: Hairball (9 PM)/The Crown Jewels__
 - __Jun 23: Tesla/Warrant/Kix/A Rising Force__
 - Jun 24: Jon Pardi/Gabby Barret/Jameson Rodgers/Mark Wills
 - Jun 25: Cole Swindell/Jordan Davis/Priscilla Block/Tim Hurley
