@@ -91,7 +91,7 @@
 
 ### Jun 18 (Sat)
 - Rockin' Rogers Days (OUTSIDE) - __Hairball__, Rogers, 8 PM-12 AM, $25, http://rogersmnlions.org/programs-events/rockin-rogers/
-- __Bad Girlfriends__ (Outdoor Stage), Bald Man Brewing, Eagan, 4 PM
+- __Bad Girlfriends__ (Outdoor Stage), Bald Man Brewing, Eagan, 4-10 PM
 - Stone Daisy, Strawberry Fest, Cottage Grove, 8 PM
 - Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
