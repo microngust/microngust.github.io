@@ -2,40 +2,20 @@
 
 ## 2022
 
-### May 13 (Fri)
-- __Nightwish/Beast in Black__, Fillmore, Mpls, 6 PM
-- 80s 90s 00s Dance Party, Ground Zero, Mpls, 10 PM - 2 AM
-- The Good, The Bad & The Funky, MN Music Cafe, St Paul, 8-11 PM
-- RHX, Ziggy's, Stillwater, 8:30 PM
-- Analog Vibe, Serum's, Anoka, 9 PM
-- 9th Planet/Eaon/Version 5/The Issue, Route 47, Fridley, 8 PM, $10 cover
-
-### May 14 (Sat)
-- Tribute Festival - __Dust N Bones/KISS N Time/Cheap Trixx/Gypsy Road/Sir Psycho__, MN Music Cafe, St Paul
-- Super Jam, Route 47, Fridley, 8 PM
-- Verge, Shakopee Bowl, Shakopee, 8:30 PM, $7
-- Shirts and Skins, Serum's, Anoka, 9 PM
-
-###  May 15 (Sun)
-- The Regrettes, Varsity Theater, Mpls, 7 PM
-
-### May 19 - 22 (Thur - Sun) - Rockville
-- __Welcome to Rockville__, Daytona Beach, Florida (https://welcometorockville.com/)
-
-### May 26 (Thu)
-- __Skid Row/Warrant/Quiet Riot__, Jackpot Junction (Dacotah Exposition Center), Morton, $40-70
-- Metalachi/Madness Malaga, Turf Club, St Paul, 8:30 PM, $22
-
 ### May 27 (Fri)
 - Gimme Gimme Disco, Varsity Theater, Mpls, 9 PM, (https://www.gimmegimmedisco.com/)
 - RHX/Wally's B-Day, Neisen's, Savage, 8:30 PM
 - Pop Syndrome, Babes, Lakeville, 9 PM - 1 AM
 - Stone Daisy, Ziggy's, Hudson, 9 PM
 - M8Ds, Serum's, Anoka, 9 PM
+- Uncle Chunk, P.D. Pappy's, Stillwater, 8 PM - 12 AM
+- Shalo Lee & Northern Southern, State Fair (VP), St Paul, 5, 6:30 & 8 PM, (https://shalolee.com/northern-southern)
 
 ### May 28 (Sat) - Memorial Day Weekend
-- __Bad Girlfriends__, PD Pappy's, Stillwater, 8-11:55 PM
+- __Bad Girlfriends__, PD Pappy's, Stillwater, 8 PM - 12 AM
 - __Rock Godz__, Harley Davidson, Lakeville, 12 PM
+- High & Mighty, State Fair (VP), St Paul, 5 PM, 6:30 & 8 PM, (https://www.mnstatefair.org/kickoff-to-summer/)
+- The R Factor, Bunker's, Mpls, 9:30 PM - 1 AM
 - Jackson & the Burn, Lord Fletcher's, Minnetonka, 3-6 PM
 - Old Voltage, Route 47, Fridley, 8 PM
 - Heartbreaker, Neisens's, Savage, 8:30 PM
@@ -45,6 +25,8 @@
 - __Hitchville__, Lord Fletcher's, Minnetonka, 3-6 PM
 - Hollywood Blvd (ABATE Bash), Route 47, Fridley, 1 PM - 4 PM
 - Gradience, Serum's, Anoka, 9 PM
+- The Jorgensen's, P.D. Pappy's, Stillwater, 8 PM - 12 AM
+- Dr Mambo's Combo, Bunker's, Mpls, 9:30 PM - 1 AM
 
 ### May 30 (Mon) - Memorial Day Weekend
 - Grand Theft Auto, Lord Fletcher's, Minnetonka, 3-6 PM
@@ -54,6 +36,7 @@
 
 ### Jun 2 (Thu)
 - The Crown Jewels (Queen), Lord Fletcher's, Minnetonka, 6-9 PM
+- Dr Mambo's Combo (Prince Mural Reveal Block Party), 9th & 1st Av, Downtown Mpls, 8 PM
 
 ### Jun 3 (Fri)
 - Emo Night Brooklyn, Varsity Theater, Mpls, 8 PM, Doors: 8 PM/ Show: 9 PM (https://emonightbk.com/)
@@ -88,6 +71,7 @@
 - Rockin' Rogers Days (OUTSIDE) - __Johnny Holm__, Rogers, 8:30 PM-12 AM, http://rogersmnlions.org/programs-events/rockin-rogers/
 - KoBb/Plague of Stars/Caster Volor, Route 47, Fridley, 8 PM
 - 70's Magic Sunshine, MN Music Cafe,  7 PM
+- High & Mighty (Rhythm Fest), Central Park, Rosemount, 7:30 PM, (https://tinyurl.com/2k8rptd4)
 
 ### Jun 18 (Sat)
 - Rockin' Rogers Days (OUTSIDE) - __Hairball__, Rogers, 8 PM-12 AM, $25, http://rogersmnlions.org/programs-events/rockin-rogers/
