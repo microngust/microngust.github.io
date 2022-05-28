@@ -2,31 +2,22 @@
 
 ## 2022
 
-### May 27 (Fri)
-- Gimme Gimme Disco, Varsity Theater, Mpls, 9 PM, (https://www.gimmegimmedisco.com/)
-- RHX/Wally's B-Day, Neisen's, Savage, 8:30 PM
-- Pop Syndrome, Babes, Lakeville, 9 PM - 1 AM
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-- M8Ds, Serum's, Anoka, 9 PM
-- Uncle Chunk, P.D. Pappy's, Stillwater, 8 PM - 12 AM
-- Shalo Lee & Northern Southern, State Fair (VP), St Paul, 5, 6:30 & 8 PM, (https://shalolee.com/northern-southern)
-
 ### May 28 (Sat) - Memorial Day Weekend
 - __Bad Girlfriends__, PD Pappy's, Stillwater, 8 PM - 12 AM
 - __Rock Godz__, Harley Davidson, Lakeville, 12 PM
 - High & Mighty, State Fair (VP), St Paul, 5 PM, 6:30 & 8 PM, (https://www.mnstatefair.org/kickoff-to-summer/)
 - The R Factor, Bunker's, Mpls, 9:30 PM - 1 AM
+- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 - Jackson & the Burn, Lord Fletcher's, Minnetonka, 3-6 PM
 - Old Voltage, Route 47, Fridley, 8 PM
 - Heartbreaker, Neisens's, Savage, 8:30 PM
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
 
 ### May 29 (Sun) - Memorial Day Weekend
 - __Hitchville__, Lord Fletcher's, Minnetonka, 3-6 PM
+- __Dr Mambo's Combo__, Bunker's, Mpls, 9:30 PM - 1 AM
 - Hollywood Blvd (ABATE Bash), Route 47, Fridley, 1 PM - 4 PM
 - Gradience, Serum's, Anoka, 9 PM
 - The Jorgensen's, P.D. Pappy's, Stillwater, 8 PM - 12 AM
-- Dr Mambo's Combo, Bunker's, Mpls, 9:30 PM - 1 AM
 
 ### May 30 (Mon) - Memorial Day Weekend
 - Grand Theft Auto, Lord Fletcher's, Minnetonka, 3-6 PM
