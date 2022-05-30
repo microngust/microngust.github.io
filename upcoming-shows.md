@@ -33,6 +33,7 @@
 - Emo Night Brooklyn, Varsity Theater, Mpls, 8 PM, Doors: 8 PM/ Show: 9 PM (https://emonightbk.com/)
 - Nekromantix/Die Ghost/DJ FøøLPrøøF, Uptown VFW,  Mpls, $15-25, (https://tinyurl.com/y6kzajh4)
 - Primus, Palace Theatre, St Paul, Doors: 7 PM/Show: 8 PM, $49.50
+- Dirty Word, Route 47, Fridley, 8 PM
 
 ### Jun 4 (Sat)
 - Hairball (OUTSIDE)/TPK (Inside), Elko Speedway, Elko New Market
@@ -105,6 +106,9 @@
 - Jun 26:
   - The Dirty Shorts Brass Band, 10 AM
   - The Covers, 1- 5 PM
+
+### Jun 24 (Fri)
+- Rock Godz, Route 47, Fridley, 8 PM
 
 ### Jun 25 (Sat)
 - __Störmbreaker__/Black Flood Diesel/Rebel Queens/Trigger Armada, The Doghouse, Maplewood, 7:30 PM
