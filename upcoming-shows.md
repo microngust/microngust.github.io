@@ -29,6 +29,7 @@
 - 70's Magic Sunshine Band, Bunker's, Mpls, 9 PM
 - Stone Daisy, Babe's, Lakeville, 9 PM
 - SWAG, Champps Patio, Eden Prairie, 6-10 PM
+- Durry, Hook & Ladder, Mpls, 7 PM
 
 ### Jun 11 (Sat)
 - __70's Magic Sunshine Band__, P.D. Pappy's, Stillwater, 8:30 PM
