@@ -2,9 +2,6 @@
 
 ## 2022
 
-### May 30 (Mon) - Memorial Day Weekend
-- Grand Theft Auto, Lord Fletcher's, Minnetonka, 3-6 PM
-
 ### Jun 1 (Wed)
 - Chixdiggit (punk), Uptown VFW, Mpls, 8:30 PM, $25
 
