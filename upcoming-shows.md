@@ -2,13 +2,6 @@
 
 ## 2022
 
-### Jun 1 (Wed)
-- Chixdiggit (punk), Uptown VFW, Mpls, 8:30 PM, $25
-
-### Jun 2 (Thu)
-- The Crown Jewels (Queen), Lord Fletcher's, Minnetonka, 6-9 PM
-- Dr Mambo's Combo (Prince Mural Reveal Block Party), 9th & 1st Av, Downtown Mpls, 8 PM
-
 ### Jun 3 (Fri)
 - Emo Night Brooklyn, Varsity Theater, Mpls, 8 PM, Doors: 8 PM/ Show: 9 PM (https://emonightbk.com/)
 - Nekromantix/Die Ghost/DJ FøøLPrøøF, Uptown VFW,  Mpls, $15-25, (https://tinyurl.com/y6kzajh4)
