@@ -14,7 +14,7 @@
 - Alex Rossi Band, P.D. Pappy's, Stillwater, 8-12
 
 ### Jun 4 (Sat)
-- Hairball (OUTSIDE)/TPK (Inside), Elko Speedway, Elko New Market
+- Hairball (OUTSIDE)/TPK (Inside), Elko Speedway, Elko New Market, 7 PM
 - Chase & Ovation, Bunkers, Mpls, 9:30 PM
 - Hollywood BLVD, Dog House, Maplewood, 9 PM
 - Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
