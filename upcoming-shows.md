@@ -1,273 +1,170 @@
-# Upcoming Shows
-
-## 2022
-
-### Jun 16 (Thu)
-- __70's Magic Sunshine Band__, Lord Fletchers, Lake Minnetonka, 6 -9 PM
-- Rockin' Rogers Days (OUTSIDE) - Unicorn, Rogers, 8-11 PM, Free
-
-### Jun 17 (Fri)
-- Freefallin'  (Outdoor Stage), Bald Man Brewing, Eagan, 5-10 PM
-- Rockin' Rogers Days (OUTSIDE) - __Johnny Holm__, Rogers, 8:30 PM-12 AM, http://rogersmnlions.org/programs-events/rockin-rogers/
-- KoBb/Plague of Stars/Caster Volor, Route 47, Fridley, 8 PM
-- 70's Magic Sunshine, MN Music Cafe,  7 PM
-- High & Mighty (Rhythm Fest), Central Park, Rosemount, 7:30 PM, (https://tinyurl.com/2k8rptd4)
-
-### Jun 18 (Sat)
-- Rockin' Rogers Days (OUTSIDE) - __Hairball__, Rogers, 8 PM-12 AM, $25, http://rogersmnlions.org/programs-events/rockin-rogers/
-- __Bad Girlfriends__ (Outdoor Stage), Bald Man Brewing, Eagan, 4-10 PM
-- Stone Daisy, Strawberry Fest, Cottage Grove, 8 PM
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-
-### Jun 19 (Sun)
-- The Stadium Tour (ONLINE) w/Motley Crue/Def Leppard/Poison/Joan Jet, 6 PM - 10:45 PM
-
-### Jun 22 - 25 (Wed-Sat) - Lakes Jam (Brainerd)
-- https://www.lakesjam.com/lineup
-
-- __Jun 22: Hairball (9 PM)/The Crown Jewels__
-- __Jun 23: Tesla/Warrant/Kix/A Rising Force__
-- Jun 24: Jon Pardi/Gabby Barret/Jameson Rodgers/Mark Wills
-- Jun 25: Cole Swindell/Jordan Davis/Priscilla Block/Tim Hurley
-
-### Jun 23 - 25 (Thu-Sat) - Summerfest (Milwaukee, WI)
-- Jun 25:
-  - 4:15 PM: __Stryper__
-  - 6:15 PM: __Stephen Pearcy__
-  - 8:15 PM: __Great White__
-  - 9:30 PM: __Ann Wilson__
-  - 10:15 PM: __Slaughter__
-
-### Jun 24 - 26 (Fri - Sun) Water Ski Days (Lake City)
-- https://tinyurl.com/yyl4stet
-- Jun 24: __Hitchville__
-- Jun 25: The 4onthefloor & Chase Matthew
-- Jun 26: __Junk FM__, 7:30 PM
-
-### Jun 25 - 26 (Sat - Sun) - Blaine Festival
-- Aquatore Park, Blaine, https://blainefestival.org/schedule/
-- Jun 25:
-  - __Heartless__, 12:30 PM
-  - __The Crown Jewels__, 3 PM
-  - Southern Express, 5:30 PM
-  - Good for Gary, 8 PM - 12 AM
-- Jun 26:
-  - The Dirty Shorts Brass Band, 10 AM
-  - The Covers, 1- 5 PM
-
-### Jun 24 (Fri)
-- The HYPE, Browerville, 
-- Rock Godz, Route 47, Fridley, 8 PM
-
-### Jun 25 (Sat)
-- __Störmbreaker__/Black Flood Diesel/Rebel Queens/Trigger Armada, The Doghouse, Maplewood, 7:30 PM
-- Unicorn, Route 65, East Bethel 9 PM
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-- Violent Femmes, Palace Theatre, St Paul, Doors: 6:30 PM/Show: 8 PM, $45
-
-### Jul 30 - 2 - Summerfest (Milwaukee, WI)
-
-### Jul 2 (Sat) - 4th of July Weekend
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-
-### Jul 3 (Sun) - 4th of July Weekend
-- __The HYPE__, Eagan Funfest, Eagan Community Center festival grounds, Eagan, 8 PM, (https://eaganfunfest.org/)
-- Hairball (7 PM) / Bad Girlfriends (3:45 PM), Bayfront Festival, Duluth
-
-### Jul 4 (Mon) - 4th of July Weekend
-- __70's Magic Sunshine Band__, Eagan Funfest, Eagan Community Center festival grounds, Eagan, 8 PM (Fireworks @ 10 PM) (https://eaganfunfest.org/)
-
-### Jul 7 - 9 - Summerfest (Milwaukee, WI)
-
-### Jul 7 (Thu)
-- __The Crown Jewels__, St. Croix Boat & Dinner Cruise 525 Main Street South  Stillwater, 7 PM
-- 70's Magic Sunshine Band, Champps Patio, Eden Prairie, 6 PM
-
-### Jul 8 (Fri)
--  __Sammy Hagar/Collective Soul__/Uncle Kracker, Lakefront Music Fest, Prior Lake, 5 PM (https://www.lakefrontmusicfest.com/lineup.html)
-- The Cult, Palace Theatre, St Paul, Doors: 6:30 PM/Show: 7:30 PM, $50
-
-### Jul 9 (Sat)
--  Toby Keith/Randy Houser/Ned LeDoux, Lakefront Music Fest, Prior Lake, 5 PM (https://www.lakefrontmusicfest.com/lineup.html
-- Unicorn, Lookout Bar & Grill, 9 PM
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-
-### Jul 13 - 16 (Wed - Sat) - Rock Fest
-- Rock Fest, Cadott, WI
-  - __Jul 13 (Wed): Warrant /Lita Ford / Firehouse__
-  - Jul 14 (Thu): Disturbed / Lamb of God
-  - __Jul 15 (Fri): Evenescence / Hailstorm__
-  - Jul 16 (Sat): Shinedown / Mudvayne
-
-### Jul 13 (Wed)
-- __The Crown Jewels__, Rhythm on the Rails, Lewis Street, Downtown Shakopee, 7:30 PM
-
-### Jul 15 (Fri)
-- Northwest Water Carnival on the Beach - __Hairball__, Detroit Lakes, 6 PM
-- Arch Allies (Outdoor Concert), Stillwater Bowl, Stillwater, 6 PM
-
-### Jul 16 (Sat)
-- The HYPE, Fire & Ice Pavillion, Chaska
-- Time Machine, Spring Creek Motocross, Millville
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-
-### Jul 17 (Fri) - Rock the Valley
-- __Dokken & Lynch/Winger/Lita Ford/Sweet/Steelheart/Wig Wam__ (https://www.redrivervalleyfair.com/p/tickets)
-
-### Jul 17 (Sun)
-- __70's Magic Sunshine Band__, Lord Fletcher's Patio, Spring Park, 3 PM
-
-### Jul 21 - 23 (Thu - Sat) - Moondance
-- __Bret Michaels/Collective Soul/Tommy DeCarlo (Boston)/Revisiting Creedence__, Walker, MN (https://www.moondancejam.com/info.html)
-
-### Jul 21 - 23 (Thu - Sat) - Twin Cities Summer Jam (Canterbury Park)
-  - Headliners: __Hairball / Blake Shelton / Kane Brown__
-  - Openers: Trace Adkins / Nelly / 38 Special / Elvie Shane / Kidd G, Callista Clark / Restless Road / Fabulous Armadillos / Mason Dixon Line / Anderson Daniels
-  - https://tcsummerjam.frontgatetickets.com/
-
-### Jul 22 (Fri)
-- __70's Magic Sunshine Band__, PD Pappy's, Stillwater, 8 PM
-
-### Jul 23 (Sat)
-- __Them Pesky Kids__, P.D. Pappy's, Stillwater, 8 PM
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-
-### Jul 24 (Sun)
-- SWAG Rooftop Concert Series, Hewing Hotel, Mpls, 6-9:30 PM
-
-### Jul 27 (Wed)
-- The Crown Jewels (Queen), Excelsior in The Commons 135 Lake St, Excelsior, 7 PM
-
-### Jul 28 (Thu)
-- 70's Magic Sunshine Band @ Ramsey County Summer Event, The Draw, Ramsey, 6:30 PM
-
-### Jul 29 (Fri)
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-
-### Jul 30 (Sat)
-- TPK, Mainstreet Bar, Hopkins, 8:30 PM
-- Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM
-- __The Psychedelic Furs/X__, Palace Theatre, St Paul, Doors: 6:30 PM/Show: 8 PM, $44.50
-
-### Aug 4 (Thu)
-- SWAG, Lord Fletchers, Lake Minnetonka, 6 -9 PM
-- 70's Magic Sunshine Band, Champps Patio, Eden Prairie, 6 PM
-
-### Aug 5 (Fri)
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-- Washington County Fair - __TPK__, 12300 40th St N, Stillwater, 7 PM
-- __Coheed and Cambria__/Dance Gavin Dance/Mothica, The Armory, Mpls, Doors: 5 PM / Show: 6:30 PM
-
-### Aug 6 (Sat)
-- __Anthrax/Black Label Society__, Fillmore, Mpls, 6 PM, $49/50
-
-### Aug 12 (Fri)
-- SWAG, Champps Patio, Eden Prairie, 6 -10 PM
-- Pandemic, Route 47, 8 PM
-
-### Aug 13 (Sat)
-- __Jack White__, The Armory, Mpls, Doors: 6:30 PM /Show: 8:00 PM
-
-### Aug 14 (Sun)
-- The Stadium Tour - __Motley Crue/Def Leppard/Poison/Joan Jet__, US Bank Stadium, Mpls, 4:30 PM
-
-### Aug 18 (Thu)
-- __Hairball__, Steele County Free Fair, Owatonna, 8PM
-
-### Aug 19 (Fri)
-- __TPK__, The Gardens, Arnolds Park, IA, 9 PM
-- Unicorn, Lookout Bar & Grill, 9 PM
-
-### Aug 20 (Sat)
-- __TPK__, The Gardens, Arnolds Park, IA, 9 PM
-- Verge @ Shakopee JACS JAM, Marystown Church, Shakopee, 7 PM
-
-### Aug 25 (Thu)
-- __Alice In Chains/Breaking Benjamin/Bush__, Grandstand @ MN State Fair, 5:30 PM, $79, $62, $53 & $36 (GA pit, reserved floor and grandstand)
-- SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
-
-### Aug 26 (Fri)
-- Devon Worle (9:30 PM) / Mark Stone (5:30 PM), Riverbend Music Fest, Owatonna
-- Stone Daisy, Frontier Saloon @ MN State Fair, 7 PM
-- SWAG, Champps Patio, Eden Prairie, 6-10 PM
-
-### Aug 27 (Sat)
-- __Rammstein__, U.S. Bank Stadium, Mpls, 7:00 - 11:00
-- Riverbend Music Fest - TPK (9:30 PM) / Distilled (5:30 PM), Owatonna, (http://riverbendmusicfest.com)
-- Hairball, Vetter Stone Amphitheater, Mankato, 7 PM
-
-### Sep 1 (Thu)
-- REO Speedwagon/Styx/Levon, Grandstand @ MN State Fair, 7 PM, $51 & $41
-- SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
-
-### Sep 2 - 4 (Fri - Sun) Rocklahoma, OK
-- (Lineup not yet announced)
-
-### Sep 2 (Fri)
-- Zac Brown Band/Robert Randolph, Grandstand @ MN State Fair, 7 PM, $194, $106, $96 & $75, (https://www.mnstatefair.org/grandstand/zac-brown-band/)
-- Stone Daisy, Champps Patio, Eden Prairie, 7 PM
-
-### Sep 3 (Sat)
-- Arch Allies, Arnolds Park Amusement Park @ Preservation Plaza, 7:30 PM
-- Stone Daisy, Camp Faribo, Faribault, 7 PM
-- Diana Ross/Naturally 7, Grandstand @ MN State Fair, 7 PM, $60, $51 & $34
-
-### Sep 4 (Sun) - Labor Day Weekend
-- Pandemic Labor Day Rock Party - __Firehouse/JR Great White__, Rollie's, Sauk Rapids
-
-### Sep 6 - 10 (Tue - Fri) Burnsville Festival
-- Nicollet Commons Park, https://tinyurl.com/y3xnggx4
-- Sep 8: Classic Car Show, 5 PM
-- Sep 9: Johnny Holm Band, Civic Center Park - Ice Arena Lot, 7:30-11 PM
-- Sep 10: Fleetwood Mask, Civic Center Park - Ice Arena Lot, 7:30-11 PM
-
-### Sep 9 - 10 (Fri - Sat) - Rocktember (Hinkley)
--  (https://rocktember.net/)
-- Sep 9: __Jackyl / Stephen Pearcy / Quiet Riot / Britny Fox / Leatherwolf / Madam X / Störmbreaker__
-- Sep 10: __Tom Keifer / Winger / Tony Harnell (TNT) / Ron Keel / Lillian Axe / Liliac / Killer Dwarfs / Burning Witches__
-
-### Sep 11 (Sun)
-- Gary Numan/I Speak Machine, First Ave, Mpls, 8 PM, $25
-- SWAG Rooftop Concert Series, Hewing Hotel, Mpls, 6-9:30 PM
-
-### Sept 23 (Fri)
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-
-### Sep 24 (Sat)
-- SWAG, The Narrows, Wayzata, 8 PM-12 AM
-
-### Oct 1 (Sat)
-- Unicorn, Lookout Bar & Grill, 9 PM
-
-### Oct 8 (Sat)
-- The HYPE, Bald Man Brewery (Octoberfest), Eagan
-
-### Oct 14 (Fri)
-- Mania (London's ABBA Tribute), Pantages, Mpls, 8:00/ $27.50-64.50
-
-### Oct 21 (Fri)
-- TPK, Forster's Dugout, Mahtomedi, 8 PM
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-
-### Oct 22 (Sat)
-- SWAG, The Lookout, Maple Grove, 8 PM-12 AM
-
-### Nov 5 (Sat)
-- SWAG, Bunkers, Mpls, 9 PM-1 AM
-
-### Nov 23 (Wed)
-- SWAG, Excelsior Brewing Company, Excelsior, 8- 11 PM
-
-### Nov 26 (Sat)
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-
-### Dec 9 (Fri)
-- Unicorn, Lookout Bar & Grill, 9 PM
-
-### Dec 10 (Sat)
-- TPK, Forster's Dugout, Mahtomedi, 8 PM
-
-### Dec 16 (Fri)
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-
+<h1 id="upcoming-shows">Upcoming Shows</h1>
+<h2 id="section">2022</h2>
+<h3 id="jul-29-fri">Jul 29 (Fri)</h3>
+<ul>
+<li>Junk FM, P.D. Pappy’s, Stillwater, 8PM</li>
+<li>Stone Daisy, Ziggy’s, Hudson, 9 PM</li>
+</ul>
+<h3 id="jul-30-sat">Jul 30 (Sat)</h3>
+<ul>
+<li>Graveyard Club w/ Aaron Rice, Fine Line, 8PM, $20-35</li>
+<li>TPK, Mainstreet Bar, Hopkins, 8:30 PM</li>
+<li>Bondage a Go-Go, Ground Zero, Mpls, 9 PM - 2 AM</li>
+<li><strong>The Psychedelic Furs/X</strong>, Palace Theatre, St Paul, Doors: 6:30 PM/Show: 8 PM, $44.50</li>
+<li>Roger Waters, Target Ctr, 8PM, $35-199.50</li>
+</ul>
+<h3 id="aug-4-thu">Aug 4 (Thu)</h3>
+<ul>
+<li>SWAG, Lord Fletchers, Lake Minnetonka, 6 -9 PM</li>
+<li>70’s Magic Sunshine Band, Champps Patio, Eden Prairie, 6 PM</li>
+</ul>
+<h3 id="aug-5-fri">Aug 5 (Fri)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+<li>Washington County Fair - <strong>TPK</strong>, 12300 40th St N, Stillwater, 7 PM</li>
+<li><strong>Coheed and Cambria</strong>/Dance Gavin Dance/Mothica, The Armory, Mpls, Doors: 5 PM / Show: 6:30 PM</li>
+</ul>
+<h3 id="aug-6-sat">Aug 6 (Sat)</h3>
+<ul>
+<li><strong>Anthrax/Black Label Society</strong>, Fillmore, Mpls, 6 PM, $49/50</li>
+</ul>
+<h3 id="aug-12-fri">Aug 12 (Fri)</h3>
+<ul>
+<li>SWAG, Champps Patio, Eden Prairie, 6 -10 PM</li>
+<li>Pandemic, Route 47, 8 PM</li>
+</ul>
+<h3 id="aug-13-sat">Aug 13 (Sat)</h3>
+<ul>
+<li><strong>Jack White</strong>, The Armory, Mpls, Doors: 6:30 PM /Show: 8:00 PM</li>
+</ul>
+<h3 id="aug-14-sun">Aug 14 (Sun)</h3>
+<ul>
+<li>The Stadium Tour - <strong>Motley Crue/Def Leppard/Poison/Joan Jet</strong>, US Bank Stadium, Mpls, 4:30 PM</li>
+</ul>
+<h3 id="aug-18-thu">Aug 18 (Thu)</h3>
+<ul>
+<li><strong>Hairball</strong>, Steele County Free Fair, Owatonna, 8PM</li>
+</ul>
+<h3 id="aug-19-fri">Aug 19 (Fri)</h3>
+<ul>
+<li><strong>TPK</strong>, The Gardens, Arnolds Park, IA, 9 PM</li>
+<li>Unicorn, Lookout Bar &amp; Grill, 9 PM</li>
+</ul>
+<h3 id="aug-20-sat">Aug 20 (Sat)</h3>
+<ul>
+<li><strong>TPK</strong>, The Gardens, Arnolds Park, IA, 9 PM</li>
+<li>Verge @ Shakopee JACS JAM, Marystown Church, Shakopee, 7 PM</li>
+</ul>
+<h3 id="aug-25-thu">Aug 25 (Thu)</h3>
+<ul>
+<li><strong>Alice In Chains/Breaking Benjamin/Bush</strong>, Grandstand @ MN State Fair, 5:30 PM, $79, $62, $53 &amp; $36 (GA pit, reserved floor and grandstand)</li>
+<li>SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM</li>
+</ul>
+<h3 id="aug-26-fri">Aug 26 (Fri)</h3>
+<ul>
+<li>Devon Worle (9:30 PM) / Mark Stone (5:30 PM), Riverbend Music Fest, Owatonna</li>
+<li>Stone Daisy, Frontier Saloon @ MN State Fair, 7 PM</li>
+<li>SWAG, Champps Patio, Eden Prairie, 6-10 PM</li>
+</ul>
+<h3 id="aug-27-sat">Aug 27 (Sat)</h3>
+<ul>
+<li><strong>Rammstein</strong>, U.S. Bank Stadium, Mpls, 7:00 - 11:00</li>
+<li>Riverbend Music Fest - TPK (9:30 PM) / Distilled (5:30 PM), Owatonna, (<a href="http://riverbendmusicfest.com">http://riverbendmusicfest.com</a>)</li>
+<li>Hairball, Vetter Stone Amphitheater, Mankato, 7 PM</li>
+</ul>
+<h3 id="sep-1-thu">Sep 1 (Thu)</h3>
+<ul>
+<li>REO Speedwagon/Styx/Levon, Grandstand @ MN State Fair, 7 PM, $51 &amp; $41</li>
+<li>SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM</li>
+</ul>
+<h3 id="sep-2---4-fri---sun-rocklahoma-ok">Sep 2 - 4 (Fri - Sun) Rocklahoma, OK</h3>
+<ul>
+<li>(Lineup not yet announced)</li>
+</ul>
+<h3 id="sep-2-fri">Sep 2 (Fri)</h3>
+<ul>
+<li>Zac Brown Band/Robert Randolph, Grandstand @ MN State Fair, 7 PM, $194, $106, $96 &amp; $75, (<a href="https://www.mnstatefair.org/grandstand/zac-brown-band/">https://www.mnstatefair.org/grandstand/zac-brown-band/</a>)</li>
+<li>Stone Daisy, Champps Patio, Eden Prairie, 7 PM</li>
+</ul>
+<h3 id="sep-3-sat">Sep 3 (Sat)</h3>
+<ul>
+<li>Arch Allies, Arnolds Park Amusement Park @ Preservation Plaza, 7:30 PM</li>
+<li>Stone Daisy, Camp Faribo, Faribault, 7 PM</li>
+<li>Diana Ross/Naturally 7, Grandstand @ MN State Fair, 7 PM, $60, $51 &amp; $34</li>
+</ul>
+<h3 id="sep-4-sun---labor-day-weekend">Sep 4 (Sun) - Labor Day Weekend</h3>
+<ul>
+<li>Pandemic Labor Day Rock Party - <strong>Firehouse/JR Great White</strong>, Rollie’s, Sauk Rapids</li>
+</ul>
+<h3 id="sep-6---10-tue---fri-burnsville-festival">Sep 6 - 10 (Tue - Fri) Burnsville Festival</h3>
+<ul>
+<li>Nicollet Commons Park, <a href="https://tinyurl.com/y3xnggx4">https://tinyurl.com/y3xnggx4</a></li>
+<li>Sep 8: Classic Car Show, 5 PM</li>
+<li>Sep 9: Johnny Holm Band, Civic Center Park - Ice Arena Lot, 7:30-11 PM</li>
+<li>Sep 10: Fleetwood Mask, Civic Center Park - Ice Arena Lot, 7:30-11 PM</li>
+</ul>
+<h3 id="sep-9---10-fri---sat---rocktember-hinkley">Sep 9 - 10 (Fri - Sat) - Rocktember (Hinkley)</h3>
+<ul>
+<li>(<a href="https://rocktember.net/">https://rocktember.net/</a>)</li>
+<li>Sep 9: <strong>Jackyl / Stephen Pearcy / Quiet Riot / Britny Fox / Leatherwolf / Madam X / Störmbreaker</strong></li>
+<li>Sep 10: <strong>Tom Keifer / Winger / Tony Harnell (TNT) / Ron Keel / Lillian Axe / Liliac / Killer Dwarfs / Burning Witches</strong></li>
+</ul>
+<h3 id="sep-11-sun">Sep 11 (Sun)</h3>
+<ul>
+<li>Gary Numan/I Speak Machine, First Ave, Mpls, 8 PM, $25</li>
+<li>SWAG Rooftop Concert Series, Hewing Hotel, Mpls, 6-9:30 PM</li>
+</ul>
+<h3 id="sept-23-fri">Sept 23 (Fri)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Hudson, 9 PM</li>
+</ul>
+<h3 id="sep-24-sat">Sep 24 (Sat)</h3>
+<ul>
+<li>SWAG, The Narrows, Wayzata, 8 PM-12 AM</li>
+</ul>
+<h3 id="oct-1-sat">Oct 1 (Sat)</h3>
+<ul>
+<li>Unicorn, Lookout Bar &amp; Grill, 9 PM</li>
+</ul>
+<h3 id="oct-8-sat">Oct 8 (Sat)</h3>
+<ul>
+<li>The HYPE, Bald Man Brewery (Octoberfest), Eagan</li>
+</ul>
+<h3 id="oct-14-fri">Oct 14 (Fri)</h3>
+<ul>
+<li>Mania (London’s ABBA Tribute), Pantages, Mpls, 8:00/ $27.50-64.50</li>
+</ul>
+<h3 id="oct-21-fri">Oct 21 (Fri)</h3>
+<ul>
+<li>TPK, Forster’s Dugout, Mahtomedi, 8 PM</li>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+</ul>
+<h3 id="oct-22-sat">Oct 22 (Sat)</h3>
+<ul>
+<li>SWAG, The Lookout, Maple Grove, 8 PM-12 AM</li>
+</ul>
+<h3 id="nov-5-sat">Nov 5 (Sat)</h3>
+<ul>
+<li>SWAG, Bunkers, Mpls, 9 PM-1 AM</li>
+</ul>
+<h3 id="nov-23-wed">Nov 23 (Wed)</h3>
+<ul>
+<li>SWAG, Excelsior Brewing Company, Excelsior, 8- 11 PM</li>
+</ul>
+<h3 id="nov-26-sat">Nov 26 (Sat)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Hudson, 9 PM</li>
+</ul>
+<h3 id="dec-9-fri">Dec 9 (Fri)</h3>
+<ul>
+<li>Unicorn, Lookout Bar &amp; Grill, 9 PM</li>
+</ul>
+<h3 id="dec-10-sat">Dec 10 (Sat)</h3>
+<ul>
+<li>TPK, Forster’s Dugout, Mahtomedi, 8 PM</li>
+</ul>
+<h3 id="dec-16-fri">Dec 16 (Fri)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+</ul>
 
