@@ -1,93 +1,93 @@
-# Upcoming Shows
-
-## 2022
-
-
-### Aug 25 (Thu)
-- __Alice In Chains/Breaking Benjamin/Bush__, Grandstand @ MN State Fair, 5:30 PM, $79, $62, $53 & $36 (GA pit, reserved floor and grandstand)
-- SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
-
-### Aug 26 (Fri)
-- Devon Worle (9:30 PM) / Mark Stone (5:30 PM), Riverbend Music Fest, Owatonna
-- Stone Daisy, Frontier Saloon @ MN State Fair, 7 PM
-- SWAG, Champps Patio, Eden Prairie, 6-10 PM
-
-### Aug 27 (Sat)
-- __Rammstein__, U.S. Bank Stadium, Mpls, 7:00 - 11:00
-- Riverbend Music Fest - TPK (9:30 PM) / Distilled (5:30 PM), Owatonna, (http://riverbendmusicfest.com)
-- Hairball, Vetter Stone Amphitheater, Mankato, 7 PM
-
-### Sep 1 (Thu)
-- REO Speedwagon/Styx/Levon, Grandstand @ MN State Fair, 7 PM, $51 & $41
-- SWAG, Dino Giro stage @ MN State Fair, 7:30-11:30 PM
-
-### Sep 2 - 4 (Fri - Sun) Rocklahoma, OK
-
-### Sep 2 (Fri)
-- Zac Brown Band/Robert Randolph, Grandstand @ MN State Fair, 7 PM, $194, $106, $96 & $75, (https://www.mnstatefair.org/grandstand/zac-brown-band/)
-- Stone Daisy, Champps Patio, Eden Prairie, 7 PM
-
-### Sep 3 (Sat)
-- Arch Allies, Arnolds Park Amusement Park @ Preservation Plaza, 7:30 PM
-- Stone Daisy, Camp Faribo, Faribault, 7 PM
-- Diana Ross/Naturally 7, Grandstand @ MN State Fair, 7 PM, $60, $51 & $34
-
-### Sep 4 (Sun) - Labor Day Weekend
-- Pandemic Labor Day Rock Party - __Firehouse/JR Great White__, Rollie's, Sauk Rapids
-
-### Sep 6 - 10 (Tue - Fri) Burnsville Festival
-- Nicollet Commons Park, https://tinyurl.com/y3xnggx4
-- Sep 8: Classic Car Show, 5 PM
-- Sep 9: Johnny Holm Band, Civic Center Park - Ice Arena Lot, 7:30-11 PM
-- Sep 10: Fleetwood Mask, Civic Center Park - Ice Arena Lot, 7:30-11 PM
-
-### Sep 9 - 10 (Fri - Sat) - Rocktember (Hinkley)
--  (https://rocktember.net/)
-- Sep 9: __Jackyl / Stephen Pearcy / Quiet Riot / Britny Fox / Leatherwolf / Madam X / Störmbreaker__
-- Sep 10: __Tom Keifer / Winger / Tony Harnell (TNT) / Ron Keel / Lillian Axe / Liliac / Killer Dwarfs / Burning Witches__
-
-### Sep 11 (Sun)
-- Gary Numan/I Speak Machine, First Ave, Mpls, 8 PM, $25
-- SWAG Rooftop Concert Series, Hewing Hotel, Mpls, 6-9:30 PM
-
-### Sept 23 (Fri)
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-
-### Sep 24 (Sat)
-- SWAG, The Narrows, Wayzata, 8 PM-12 AM
-
-### Oct 1 (Sat)
-- Unicorn, Lookout Bar & Grill, 9 PM
-
-### Oct 8 (Sat)
-- The HYPE, Bald Man Brewery (Octoberfest), Eagan
-
-### Oct 14 (Fri)
-- Mania (London's ABBA Tribute), Pantages, Mpls, 8:00/ $27.50-64.50
-
-### Oct 21 (Fri)
-- TPK, Forster's Dugout, Mahtomedi, 8 PM
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-
-### Oct 22 (Sat)
-- SWAG, The Lookout, Maple Grove, 8 PM-12 AM
-
-### Nov 5 (Sat)
-- SWAG, Bunkers, Mpls, 9 PM-1 AM
-
-### Nov 23 (Wed)
-- SWAG, Excelsior Brewing Company, Excelsior, 8- 11 PM
-
-### Nov 26 (Sat)
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-
-### Dec 9 (Fri)
-- Unicorn, Lookout Bar & Grill, 9 PM
-
-### Dec 10 (Sat)
-- TPK, Forster's Dugout, Mahtomedi, 8 PM
-
-### Dec 16 (Fri)
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-
+<h1 id="upcoming-shows">Upcoming Shows</h1>
+<h2 id="section">2022</h2>
+<h3 id="sept-23-fri">Sept 23 (Fri)</h3>
+<ul>
+<li>Sorry for Party Rocking, Studio B (Skyway), Mpls, 9 PM - 2 AM, $15</li>
+<li>High &amp; Mighty, Bunker’s, Mpls, 9:30 PM, $10</li>
+<li>A Rising Force, Bogart’s, Apple Valley, 8 PM</li>
+<li>Impaler/Dumpster Juice/Silent Treatment, Palmer’s Bar, Mpls 7 PM, $15</li>
+<li>Xpedition, Route 47, Fridley, 8 PM</li>
+<li>Distilled, Serums, Anoka, 9 PM</li>
+<li>Stone Daisy, Ziggy’s, Hudson, 9 PM</li>
+<li>Milkshake! - A late 90’s/Early 2000’s Dance Party, Uptown VFW, Mpls, 10 PM, $5 - 10</li>
+<li>Maiden Dixie, Ziggy’s On Main, Stillwater, 8 PM</li>
+<li>Sexton/The Sexrays/Sex Cells, Palmer’s Bar, 7 PM, $15</li>
+</ul>
+<h3 id="sep-24-sat">Sep 24 (Sat)</h3>
+<ul>
+<li>TPK, Bogart’s, Apple Valley, 8 PM</li>
+<li>70s Magic Sunshine Band, Bunkers, Mpls, 9 PM</li>
+<li>Bondage-a-Go-Go, Ground Zero, Mpls, 10 PM</li>
+<li>The Good, The Bad &amp; The Funky, PD Pappy’s, Stillwater, 8 PM</li>
+<li>HeBeGbs, Ziggy’s On Main, Stillwater, 8 PM</li>
+<li>Dearly Departed/Odds of an Afterthought, Leaving Hope, Amsterdam Bar, St Paul, 7 PM, $10 Adv/$15</li>
+<li>Swag, The Narrows, Wayzata, 8 PM-12 AM</li>
+<li>Weekend Rockstar, Neisen’s, Savage, 8:30 PM - 12:30 AM</li>
+<li>Southern Express, Route 47, Fridley, 8 PM</li>
+<li>Cold Front, Serums, Anoka, 9 PM</li>
+<li>Big Head Todd &amp; The Monsters/World According To Garth - SeptemberFest, Faithful Shepherd School, Eagan 5:00 PM, $35 (<a href="http://SeptemberFestRocksEagan.com">http://SeptemberFestRocksEagan.com</a>)</li>
+<li>The Gaslight Anthem/Tigers Jaw, Fillmore, Mpls, 8 PM, $39.50, 15+</li>
+<li>Bootleg, Mainstreet Bar, Hopkins, 8:30 PM, $10</li>
+<li>Not Dead Yet, Jersey’s, Inver Grove, 9 PM</li>
+</ul>
+<h3 id="sep-30-friday">Sep 30 (Friday)</h3>
+<ul>
+<li>Friday Night Eternal, Ground Zero, Mpls, 10 PM</li>
+<li>Lady Faith, REV Ultra Lounge, Mpls, 8 PM – 2 AM</li>
+<li>High &amp; Mighty, PD Pappy’s, Stillwater, 8 PM</li>
+<li>Sinatra to Slayer presents: Friday I’m In Love! A New Wave Dance Party, Uptown VFW, Mpls, 9 PM, $5 - 10</li>
+</ul>
+<h3 id="oct-1-sat">Oct 1 (Sat)</h3>
+<ul>
+<li>Unicorn, Lookout Bar &amp; Grill, 9 PM</li>
+<li>Verge, Neisen’s, Savage, 8:30 PM - 12:30 AM</li>
+</ul>
+<h3 id="oct-7-fri">Oct 7 (Fri)</h3>
+<ul>
+<li>Kitty &amp; the Entourage, Neisen’s, Savage, 8:30 PM - 12:30 AM</li>
+<li>Enchanted Forest RaptureMN, Ground Zero, Mpls, 10 PM</li>
+</ul>
+<h3 id="oct-8-sat">Oct 8 (Sat)</h3>
+<ul>
+<li>The HYPE, Bald Man Brewery (Octoberfest), Eagan</li>
+<li>Heartbreaker, Neisen’s, Savage, 8:30 PM - 12:30 AM</li>
+</ul>
+<h3 id="oct-14-fri">Oct 14 (Fri)</h3>
+<ul>
+<li>Mania (London’s ABBA Tribute), Pantages, Mpls, 8:00/ $27.50-64.50</li>
+</ul>
+<h3 id="oct-21-fri">Oct 21 (Fri)</h3>
+<ul>
+<li>TPK, Forster’s Dugout, Mahtomedi, 8 PM</li>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+<li>Gothtoberfest, Ground Zero, Mpls, 10 PM</li>
+</ul>
+<h3 id="oct-22-sat">Oct 22 (Sat)</h3>
+<ul>
+<li>SWAG, The Lookout, Maple Grove, 8 PM-12 AM</li>
+</ul>
+<h3 id="nov-5-sat">Nov 5 (Sat)</h3>
+<ul>
+<li>SWAG, Bunkers, Mpls, 9 PM-1 AM</li>
+</ul>
+<h3 id="nov-23-wed">Nov 23 (Wed)</h3>
+<ul>
+<li>SWAG, Excelsior Brewing Company, Excelsior, 8- 11 PM</li>
+</ul>
+<h3 id="nov-26-sat">Nov 26 (Sat)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Hudson, 9 PM</li>
+</ul>
+<h3 id="dec-9-fri">Dec 9 (Fri)</h3>
+<ul>
+<li>Unicorn, Lookout Bar &amp; Grill, 9 PM</li>
+</ul>
+<h3 id="dec-10-sat">Dec 10 (Sat)</h3>
+<ul>
+<li>TPK, Forster’s Dugout, Mahtomedi, 8 PM</li>
+</ul>
+<h3 id="dec-16-fri">Dec 16 (Fri)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+</ul>
 
