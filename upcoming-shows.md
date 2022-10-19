@@ -1,41 +1,52 @@
-# Upcoming Shows
-
-## 2022
-
-### Oct 21 (Fri)
-- TPK, Forster's Dugout, Mahtomedi, 8 PM
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-- Gothtoberfest, Ground Zero, Mpls, 10 PM
-
-### Oct 22 (Sat)
-- SWAG, The Lookout, Maple Grove, 8 PM-12 AM
-
-### Nov 5 (Sat)
-- SWAG, Bunkers, Mpls, 9 PM-1 AM
-
-### Nov 11 (Fri)
-- Trinity of Terror, Armory, Mpls
-  - Black Veil Brides
-  - Ice Nine Kills
-  - Motionless in White
-
-### Nov 11 (Sat)
-- TPK, Pause 4 Paws, Golf Course, Maple Grove
-
-### Nov 23 (Wed)
-- SWAG, Excelsior Brewing Company, Excelsior, 8- 11 PM
-
-### Nov 26 (Sat)
-- Stone Daisy, Ziggy's, Hudson, 9 PM
-
-### Dec 9 (Fri)
-- Unicorn, Lookout Bar & Grill, 9 PM
-
-### Dec 10 (Sat)
-- Hairball, Medina Entertainment Center, Medina, 8:15PM
-- TPK, Forster's Dugout, Mahtomedi, 8 PM
-
-### Dec 16 (Fri)
-- Stone Daisy, Ziggy's, Stillwater, 8 PM
-
+<h1 id="upcoming-shows">Upcoming Shows</h1>
+<h2 id="section">2022</h2>
+<h3 id="oct-21-fri">Oct 21 (Fri)</h3>
+<ul>
+<li>TPK, Forster’s Dugout, Mahtomedi, 8 PM</li>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+<li>Gothtoberfest, Ground Zero, Mpls, 10 PM</li>
+</ul>
+<h3 id="oct-22-sat">Oct 22 (Sat)</h3>
+<ul>
+<li>SWAG, The Lookout, Maple Grove, 8 PM-12 AM</li>
+</ul>
+<h3 id="nov-5-sat">Nov 5 (Sat)</h3>
+<ul>
+<li>SWAG, Bunkers, Mpls, 9 PM-1 AM</li>
+</ul>
+<h3 id="nov-11-fri">Nov 11 (Fri)</h3>
+<ul>
+<li>Trinity of Terror, Armory, Mpls, 6 PM, (<a href="https://www.bandsintown.com/e/103665154-black-veil-brides-at-armory">https://www.bandsintown.com/e/103665154-black-veil-brides-at-armory</a>)
+<ul>
+<li>Black Veil Brides</li>
+<li>Ice Nine Kills</li>
+<li>Motionless in White</li>
+</ul>
+</li>
+</ul>
+<h3 id="nov-11-sat">Nov 11 (Sat)</h3>
+<ul>
+<li>TPK, Pause 4 Paws, Rush Creek Golf Club, Maple Grove, 9 PM</li>
+</ul>
+<h3 id="nov-23-wed">Nov 23 (Wed)</h3>
+<ul>
+<li>SWAG, Excelsior Brewing Company, Excelsior, 8- 11 PM</li>
+</ul>
+<h3 id="nov-26-sat">Nov 26 (Sat)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Hudson, 9 PM</li>
+</ul>
+<h3 id="dec-9-fri">Dec 9 (Fri)</h3>
+<ul>
+<li>Unicorn, Lookout Bar &amp; Grill, 9 PM</li>
+</ul>
+<h3 id="dec-10-sat">Dec 10 (Sat)</h3>
+<ul>
+<li>Hairball, Medina Entertainment Center, Medina, 8:15PM</li>
+<li>TPK, Forster’s Dugout, Mahtomedi, 8 PM</li>
+</ul>
+<h3 id="dec-16-fri">Dec 16 (Fri)</h3>
+<ul>
+<li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
+</ul>
 
