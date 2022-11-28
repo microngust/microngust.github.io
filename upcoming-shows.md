@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="section">2022</h2>
 <h3 id="oct-28-fri-halloween-weekend">Oct 28 (Fri) (Halloween weekend)</h3>
 <ul>
@@ -28,4 +39,7 @@
 <li>Stone Daisy, Ziggy’s, Stillwater, 8 PM</li>
 <li>The Rumours, Mortimer’s, Mpls</li>
 </ul>
+</div>
+</body>
 
+</html>
