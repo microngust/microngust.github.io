@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="section">2022</h2>
 <h2 id="dec-23-fri">Dec 23 (Fri)</h2>
 <ul>
@@ -165,4 +176,7 @@ Plus official cruise host Eddie Trunk</li>
 </ul>
 <h2 id="jul-20---22--moondance-jam--walker">Jul 20 - 22 : <a href="https://www.moondancejam.com/">Moondance Jam</a> @ Walker</h2>
 <h2 id="sep-8---9--rocktember--hinckley">Sep 8 - 9 : <a href="https://rocktember.net/">Rocktember</a> @ Hinckley</h2>
+</div>
+</body>
 
+</html>
