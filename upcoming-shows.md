@@ -24,6 +24,28 @@
 - Tesla
 - Extreme
 
+## Jan 27 (Fri)
+- Bigly, Smilin' Moose, Hudson, 9:30 PM
+- Waves Collide, Shamrocks, St Paul, 9:30 PM
+- Wicked Garden, Route 47, Fridley, 8 PM
+- Tim Sigler, Babes, Lakeville, 9 PM
+- Arch Allies, Fillmore (TwinsFest), Mpls, 6 PM
+- Side Two, Shamrocks, St Paul, 9:30 PM
+- Nerve, Bogart's, Apple Valley, 8:30 PM - 12:30 AM
+- Skitzo Fonik, Ziggy's, Hudson, 9 PM
+- Decadance, Uptown VFW, Mpls, 10 PM
+
+## Jan 28 (Sat)
+- Hollywood Blvd, Jersey's, Inver Grove, 9 PM
+- Rough House, The Bowl, Shakopee, 8:30 PM
+- Junk FM, The Lookout, Maple Grove, 9 PM
+- Rebel Queens, Shamrocks, St Paul, 9 PM
+- 70s Magic Sunshine, The Narrows, Wayzata, 8 PM - 11 PM
+- Heartbreaker, Neisen's, Savage, 8:30 PM - 12:30 AM
+- Tim Sigler (Acoustic), Ziggy's on Main, Stillwater, 12 PM
+- The Dolly Party, Varsity Theater, Mpls, 9 PM
+- Shirts & Skins, Ziggy's, Hudson, 9 PM
+
 ## Feb 19 (Sun)
 - John Scott Memorial Benefit, Route 47, Fridley
   - The HYPE
