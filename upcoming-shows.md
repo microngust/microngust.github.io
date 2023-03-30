@@ -1,163 +1,190 @@
-# Upcoming Shows
-
-## Mar 31 (Fri)
-- ROCKSHOW, Route 47, Fridley, 7 PM
-
-## Apr 29 - May 4 : MORC @ Cape Canaveral
-- Tesla
-- **Michael Schenker**
-- **Winger**
-- Queensrÿche
-- Saxon
-- Extreme
-- **Vandenberg**
-- Autograph
-- **Burning Witches**
-- **Chez Kane**
-- **D-A-D**
-- **Dirty Looks**
-- **Doro**
-- Faster Pussycat
-- Great White
-- **Hardcore Superstar**
-- Joel Hoekstra
-- John Corabi
-- Junkyard
-- Kix
-- **Lee Aaron**
-- **Liliac**
-- **Loudness**
-- **Mac Sabbath**
-- Nestor
-- **Reckless Love**
-- **Rhino Bucket**
-- Rose Tattoo
-- Shiraz Lane
-- **Stryper**
-- Ted Poley
-- Tora Tora
-- Treat
-- **Tyketto**
-- Tyler Bryant & The Shakedown
-- **Vain**
-- **Wig Wam**
-- Plus official cruise host Eddie Trunk
-
-
-## May 6 - 7 : M3 @ Baltimore
-__May 6__
-- Styx
-- Extreme
-- Winger
-- Slaughter
-- Lita Ford
-- Quiet Riot
-- Britny Fox
-- Child's Play
-- Count's 77
-
-__May 7__
-- Kix
-- Warrant
-- Great White
-- Loudness
-- Steven Adler
-- Firehouse
-- Riley's L.A. Guns
-- Vixen
-- Mike Tramp
-
-## May 8 (Mon)
-- Gary Numan
-
-## May 9 (Tues)
-- Icon For Hire w/Hooked Like Helen, 7th St Entry, Mpls
-
-## May 11 (Thu)
-- Ultrabomb, The Bar Stool Preachers, Turf Club
-
-## May 13 (Sat) : Sick New World Festival @ Las Vegas
-- The 69 Eyes
-## Jun 8
-- The Cure, Xcel Center, St Paul, https://www.thecure.com/shows/
-
-## Jun 7 - 10 : Sweden Rock Festival
-
-- Iron Maiden
-- Mötley Crüe
-- Def Leppard
-- Ghost
-- Pantera
-- Gojira
-- Behemoth
-- Clutch
-- Testament
-- Avatar
-- Sator
-- Thundermother
-
-## Jun 8 - 10 : Rockfest Finland
-
-- Def Leppard
-- Mötley Crüe
-- Michael Monroe
-- Beast in Black
-- Pantera
-- Monster Magnet
-- The 69 Eyes
-- Testament
-- Escape the Fate
-- Rancid
-- VV
-- Stam1na
-- Sick of it All
-- Popeda
-- Von Hertzen Brothers
-
-## Jun 22 - 24 : [Lakes Jam](https://www.lakesjam.com/lineup), @ BIR, Brainerd
-
-- __Jun 22 (Thu)__
-  - 10:00 PM: Skillet
-  - 8:00 PM: Soul Asylum
-  - 6:15 PM: Puddle of Mudd
-  - 4:30 PM: Black Stone Cherry
-  - 3:00 PM: TBA
-- __Jun 23 (Fri)__
-  - 10:00 PM: Hardy
-  - 8:00 PM: Mitchell Tenpenny
-  - 6:15 PM: Mark Chesnutt
-  - 4:30 PM: Lauren Watkins
-  - 3:00 PM: TBA
-- __Jun 24 (Sat)__
-  - 10:00 PM: Dustin Lynch
-  - 8:00 PM: Chris Lane
-  - 4:30 PM: Jackson Dean
-  - 3:00 PM: TBA
-
-## Jul 13 - 15 : [Rock Fest](https://rock-fest.com/) @ Cadott
-- Pantera
-
-## July 14 & 15: [Lakefont Music Fest](https://www.lakefrontmusicfest.com/) @ Prior Lake
-- __July 14__
-  - Lynyrd Skynyrd
-  - REO Speedwagon
-  - Black Stone Cherry
-- __​July 15__
-  - Darius Rucker
-  - Tyler Hubbard of Florida Georgia Line
-  - Joe Nichols
-
-## Jul 20 - 22 : [Moondance Jam](https://www.moondancejam.com/) @ Walker
-
-## Aug 11
- - Motley Crue and Def Leppard, Fargodome, Fargo, ND
-## Sep 8 - 9 : [Rocktember](https://rocktember.net/) @ Hinckley
-
-## Oct 12
-- Depeche Mode, Amway Center, Orlando, FL, https://www.depechemode.com/#tour
-
-## Oct 19 - 22: [Biketoberfest ](https://www.daytonabeach.com/biketoberfest/) @ Daytona Beach
-
-## Oct 20 (Fri)
-- My Life With The Thrill Kill Kult w/Adult & Kanga, Fine Line, Mpls
+<h1 id="upcoming-shows">Upcoming Shows</h1>
+<h2 id="mar-31-fri">Mar 31 (Fri)</h2>
+<ul>
+<li>ROCKSHOW, Route 47, Fridley, 7 PM</li>
+</ul>
+<h2 id="apr-29---may-4--morc--cape-canaveral">Apr 29 - May 4 : MORC @ Cape Canaveral</h2>
+<ul>
+<li>Tesla</li>
+<li><strong>Michael Schenker</strong></li>
+<li><strong>Winger</strong></li>
+<li>Queensrÿche</li>
+<li>Saxon</li>
+<li>Extreme</li>
+<li><strong>Vandenberg</strong></li>
+<li>Autograph</li>
+<li><strong>Burning Witches</strong></li>
+<li><strong>Chez Kane</strong></li>
+<li><strong>D-A-D</strong></li>
+<li><strong>Dirty Looks</strong></li>
+<li><strong>Doro</strong></li>
+<li>Faster Pussycat</li>
+<li>Great White</li>
+<li><strong>Hardcore Superstar</strong></li>
+<li>Joel Hoekstra</li>
+<li>John Corabi</li>
+<li>Junkyard</li>
+<li>Kix</li>
+<li><strong>Lee Aaron</strong></li>
+<li><strong>Liliac</strong></li>
+<li><strong>Loudness</strong></li>
+<li><strong>Mac Sabbath</strong></li>
+<li>Nestor</li>
+<li><strong>Reckless Love</strong></li>
+<li><strong>Rhino Bucket</strong></li>
+<li>Rose Tattoo</li>
+<li>Shiraz Lane</li>
+<li><strong>Stryper</strong></li>
+<li>Ted Poley</li>
+<li>Tora Tora</li>
+<li>Treat</li>
+<li><strong>Tyketto</strong></li>
+<li>Tyler Bryant &amp; The Shakedown</li>
+<li><strong>Vain</strong></li>
+<li><strong>Wig Wam</strong></li>
+<li>Plus official cruise host Eddie Trunk</li>
+</ul>
+<h2 id="may-6---7--m3--baltimore">May 6 - 7 : M3 @ Baltimore</h2>
+<p><strong>May 6</strong></p>
+<ul>
+<li>Styx</li>
+<li>Extreme</li>
+<li>Winger</li>
+<li>Slaughter</li>
+<li>Lita Ford</li>
+<li>Quiet Riot</li>
+<li>Britny Fox</li>
+<li>Child’s Play</li>
+<li>Count’s 77</li>
+</ul>
+<p><strong>May 7</strong></p>
+<ul>
+<li>Kix</li>
+<li>Warrant</li>
+<li>Great White</li>
+<li>Loudness</li>
+<li>Steven Adler</li>
+<li>Firehouse</li>
+<li>Riley’s L.A. Guns</li>
+<li>Vixen</li>
+<li>Mike Tramp</li>
+</ul>
+<h2 id="may-8-mon">May 8 (Mon)</h2>
+<ul>
+<li>Gary Numan</li>
+</ul>
+<h2 id="may-9-tues">May 9 (Tues)</h2>
+<ul>
+<li>Icon For Hire w/Hooked Like Helen, 7th St Entry, Mpls</li>
+</ul>
+<h2 id="may-11-thu">May 11 (Thu)</h2>
+<ul>
+<li>Ultrabomb, The Bar Stool Preachers, Turf Club</li>
+</ul>
+<h2 id="may-13-sat--sick-new-world-festival--las-vegas">May 13 (Sat) : Sick New World Festival @ Las Vegas</h2>
+<ul>
+<li>The 69 Eyes</li>
+</ul>
+<h2 id="jun-8">Jun 8</h2>
+<ul>
+<li>The Cure, Xcel Center, St Paul, <a href="https://www.thecure.com/shows/">https://www.thecure.com/shows/</a></li>
+</ul>
+<h2 id="jun-7---10--sweden-rock-festival">Jun 7 - 10 : Sweden Rock Festival</h2>
+<ul>
+<li>Iron Maiden</li>
+<li>Mötley Crüe</li>
+<li>Def Leppard</li>
+<li>Ghost</li>
+<li>Pantera</li>
+<li>Gojira</li>
+<li>Behemoth</li>
+<li>Clutch</li>
+<li>Testament</li>
+<li>Avatar</li>
+<li>Sator</li>
+<li>Thundermother</li>
+</ul>
+<h2 id="jun-8---10--rockfest-finland">Jun 8 - 10 : Rockfest Finland</h2>
+<ul>
+<li>Def Leppard</li>
+<li>Mötley Crüe</li>
+<li>Michael Monroe</li>
+<li>Beast in Black</li>
+<li>Pantera</li>
+<li>Monster Magnet</li>
+<li>The 69 Eyes</li>
+<li>Testament</li>
+<li>Escape the Fate</li>
+<li>Rancid</li>
+<li>VV</li>
+<li>Stam1na</li>
+<li>Sick of it All</li>
+<li>Popeda</li>
+<li>Von Hertzen Brothers</li>
+</ul>
+<h2 id="jun-22---24--lakes-jam--bir-brainerd">Jun 22 - 24 : <a href="https://www.lakesjam.com/lineup">Lakes Jam</a>, @ BIR, Brainerd</h2>
+<ul>
+<li><strong>Jun 22 (Thu)</strong>
+<ul>
+<li>10:00 PM: Skillet</li>
+<li>8:00 PM: Soul Asylum</li>
+<li>6:15 PM: Puddle of Mudd</li>
+<li>4:30 PM: Black Stone Cherry</li>
+<li>3:00 PM: TBA</li>
+</ul>
+</li>
+<li><strong>Jun 23 (Fri)</strong>
+<ul>
+<li>10:00 PM: Hardy</li>
+<li>8:00 PM: Mitchell Tenpenny</li>
+<li>6:15 PM: Mark Chesnutt</li>
+<li>4:30 PM: Lauren Watkins</li>
+<li>3:00 PM: TBA</li>
+</ul>
+</li>
+<li><strong>Jun 24 (Sat)</strong>
+<ul>
+<li>10:00 PM: Dustin Lynch</li>
+<li>8:00 PM: Chris Lane</li>
+<li>4:30 PM: Jackson Dean</li>
+<li>3:00 PM: TBA</li>
+</ul>
+</li>
+</ul>
+<h2 id="jul-13---15--rock-fest--cadott">Jul 13 - 15 : <a href="https://rock-fest.com/">Rock Fest</a> @ Cadott</h2>
+<ul>
+<li>Pantera</li>
+</ul>
+<h2 id="july-14--15-lakefont-music-fest--prior-lake">July 14 &amp; 15: <a href="https://www.lakefrontmusicfest.com/">Lakefont Music Fest</a> @ Prior Lake</h2>
+<ul>
+<li><strong>July 14</strong>
+<ul>
+<li>Lynyrd Skynyrd</li>
+<li>REO Speedwagon</li>
+<li>Black Stone Cherry</li>
+</ul>
+</li>
+<li><strong>​July 15</strong>
+<ul>
+<li>Darius Rucker</li>
+<li>Tyler Hubbard of Florida Georgia Line</li>
+<li>Joe Nichols</li>
+</ul>
+</li>
+</ul>
+<h2 id="jul-20---22--moondance-jam--walker">Jul 20 - 22 : <a href="https://www.moondancejam.com/">Moondance Jam</a> @ Walker</h2>
+<h2 id="aug-11">Aug 11</h2>
+<ul>
+<li>Motley Crue and Def Leppard, Fargodome, Fargo, ND</li>
+</ul>
+<h2 id="sep-8---9--rocktember--hinckley">Sep 8 - 9 : <a href="https://rocktember.net/">Rocktember</a> @ Hinckley</h2>
+<h2 id="oct-12">Oct 12</h2>
+<ul>
+<li>Depeche Mode, Amway Center, Orlando, FL, <a href="https://www.depechemode.com/#tour">https://www.depechemode.com/#tour</a></li>
+</ul>
+<h2 id="oct-19---22-biketoberfest---daytona-beach">Oct 19 - 22: <a href="https://www.daytonabeach.com/biketoberfest/">Biketoberfest </a> @ Daytona Beach</h2>
+<h2 id="oct-20-fri">Oct 20 (Fri)</h2>
+<ul>
+<li>My Life With The Thrill Kill Kult w/Adult &amp; Kanga, Fine Line, Mpls</li>
+</ul>
 
