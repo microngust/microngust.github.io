@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="jun-22---24--lakes-jam--bir-brainerd">Jun 22 - 24 : <a href="https://www.lakesjam.com/lineup">Lakes Jam</a>, @ BIR, Brainerd</h2>
 <ul>
 <li><strong>Jun 22 (Thu)</strong>
@@ -135,4 +146,7 @@
 </ul>
 </li>
 </ul>
+</div>
+</body>
 
+</html>
