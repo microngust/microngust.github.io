@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="jun-30---july-2-hudson-booster-days-lakefront-park-downtown-hudson">Jun 30 - July 2: <a href="https://www.hudsonboosters.org/page/show/657024-booster-days-hudson-s-4th-of-july-celebration-">Hudson Booster Days</a>, Lakefront Park, Downtown Hudson</h2>
 <ul>
 <li>
@@ -106,4 +117,7 @@
 </ul>
 </li>
 </ul>
+</div>
+</body>
 
+</html>
