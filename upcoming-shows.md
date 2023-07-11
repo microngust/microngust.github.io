@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="jul-14-fri">Jul 14 (Fri)</h2>
 <ul>
 <li>Impaler/Witchden/Volsungasaga, Palmers’ Outdoor Patio, Mpls, 7 - 10 PM, $15</li>
@@ -74,4 +85,7 @@
 </ul>
 </li>
 </ul>
+</div>
+</body>
 
+</html>
