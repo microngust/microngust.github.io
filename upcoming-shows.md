@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="aug-11-fri">Aug 11 (Fri)</h2>
 <ul>
 <li>70s Magic Sunshine Band, P.D. Pappy’s, Stillwater, 8 PM- 12 AM</li>
@@ -53,4 +64,7 @@
 </ul>
 </li>
 </ul>
+</div>
+</body>
 
+</html>
