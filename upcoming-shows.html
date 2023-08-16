@@ -1,4 +1,15 @@
-<h1 id="upcoming-shows">Upcoming Shows</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upcoming-shows</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="upcoming-shows">Upcoming Shows</h1>
 <h2 id="aug-18-fri">Aug 18 (Fri)</h2>
 <ul>
 <li>The Good, The Bad &amp; The Funky, PD Pappy’s, 8 PM-12AM</li>
@@ -43,4 +54,7 @@
 </ul>
 </li>
 </ul>
+</div>
+</body>
 
+</html>
