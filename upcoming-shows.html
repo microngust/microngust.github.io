@@ -9,52 +9,13 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h2 id="oct-13-fri">Oct 13 (Fri)</h2>
-<ul>
-<li>Some Shitty Cover Band, Ziggy’s, Stillwater, 8:30 PM</li>
-<li>Emo Nite, Fine Line, Mpls, 9 PM</li>
-<li>TPK/Thunderstruck, Medina, 8 PM</li>
-<li>Varsity Rejects, Neisen’s, Savage, 8:30 PM</li>
-<li>April Wine &amp; Sweet, Treasure Island, 8 PM, $29+</li>
-<li>The Dweebs, The Haunting Experience, Cottage Grove, 7 - 11 PM</li>
-<li>Glen Everhart, Ziggy’s, Stillwater, 2 PM</li>
-</ul>
-<h2 id="oct-14-sat">Oct 14 (Sat)</h2>
-<ul>
-<li>Styx, Mystic Lake Casino, Prior Lake, 8 PM</li>
-<li>Fleetmac Wood (Disco/Electronica DJ), Fine Line, Mpls, 9 PM</li>
-<li>Harvest Fest Stillwater
-<ul>
-<li>Live Music: 10 AM - 8 PM</li>
-<li>Glen Everhart, Ziggy’s, Stillwater, 2 PM</li>
-<li>Broken Spoke (Harvest Fest), Stillwater, 3 - 5 PM</li>
-<li>Giant Pumpkin Drop at 5:30 PM</li>
-<li>Free &amp; Easy Band (Harvest Fest), Stillwater, 6 - 8 PM</li>
-<li>Junk FM, Ziggy’s, Stillwater, 8:30 PM</li>
-</ul>
-</li>
-</ul>
-<h2 id="oct-15-sun">Oct 15 (Sun)</h2>
-<ul>
-<li>Harvest Fest Stillwater
-<ul>
-<li>Live Music: 10 AM - 5 PM</li>
-<li>Giant Pumpkin Drop at 5:30 PM</li>
-</ul>
-</li>
-</ul>
-<h2 id="oct-17-tue">Oct 17 (Tue)</h2>
-<ul>
-<li>Polyphia, First Avenue, Mpls, 8 PM</li>
-</ul>
-<h2 id="oct-19---22-biketoberfest--daytona-beach-thu---sun">Oct 19 - 22: <a href="https://www.daytonabeach.com/biketoberfest/">Biketoberfest</a> @ Daytona Beach (Thu - Sun)</h2>
-<h2 id="oct-20-fri">Oct 20 (Fri)</h2>
+  <div class="stackedit__html"><h2 id="oct-20-fri">Oct 20 (Fri)</h2>
 <ul>
 <li>My Life with the Thrill Kill Kult w/Adult &amp; Kanga, Fine Line, Mpls, 8:30 PM, $28 - $45</li>
-<li>Motionless in White, Armory, Mpls, 6:30 PM, $42.50</li>
 <li>70s Magic Sunshine, Bunkers, Mpls, 9:30 PM</li>
 <li>Gothtoberfest, Ground Zero, 10 PM</li>
 <li>Audio Circus, Ziggy’s, Stillwater, 8:30 PM</li>
+<li>Motionless in White, Armory, Mpls, 6:30 PM, $42.50</li>
 </ul>
 <h2 id="oct-21-sat">Oct 21 (Sat)</h2>
 <ul>
@@ -66,8 +27,8 @@
 </ul>
 <h2 id="oct-27-fri">Oct 27 (Fri)</h2>
 <ul>
-<li>Rock Godz, Serum’s, Anoka</li>
 <li>Anoka Halloween Tent, Arch Allies, Anoka, 7 PM - 12:15 AM</li>
+<li>Rock Godz, Serum’s, Anoka</li>
 <li>TPK, Ziggy’s, Hudson, 9 PM</li>
 <li>The Grim Reaper’s Ball, Ground Zero, 10 PM</li>
 <li>Varsity Rejects, Doghouse, 9 PM</li>
@@ -76,9 +37,9 @@
 <ul>
 <li>Bootleg, Ziggy’s, Hudson, 9 PM</li>
 <li>TPK, Bogart’s, Apple Valley, 8:30 PM</li>
-<li>The Halloween Party, Ground Zero, 9 PM</li>
 <li>Theatre of Pain/KISS in Time, MN Music Cafe, St Paul, 8 PM</li>
 <li>VIA/Wally Joseph (WJ)/Motherwind/The Forty Twos, Dog House, Maplewood, 7 PM, $10 adv/$15 door</li>
+<li>The Halloween Party, Ground Zero, 9 PM</li>
 </ul>
 <h2 id="oct-31-tue">Oct 31 (Tue)</h2>
 <ul>
@@ -92,9 +53,10 @@
 <ul>
 <li>In this Moment, Avatar, and New Years Day, Myth, Maplewood, 6 PM/7 PM, $45</li>
 <li>Black Stone Cherry/Giovannie/The Hired Guns, Amsterdam Bar, St Paul, Doors: 7:30 PM, $32.50/$35</li>
+<li>Sin 7/Emperors n Angels/Unkle Daddy, The Doghouse, Maplewood</li>
+<li>The HYPE, Route 47, Fridley, 8 PM</li>
 <li>Stereo Kitchen, Bunkers, Mpls, 9:30 PM</li>
 <li>EXPRESS, Cowboy Jack’s, Mpls, 9:30 PM</li>
-<li>Sin 7/Emperors n Angels/Unkle Daddy, The Doghouse, Maplewood</li>
 </ul>
 <h2 id="nov-10-fri">Nov 10 (Fri)</h2>
 <ul>
