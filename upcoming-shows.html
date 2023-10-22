@@ -24,6 +24,14 @@
 <li>Chase &amp; Ovation, Bunkers, Mpls, 9:30 PM</li>
 <li>Half Shattered, The Dugout, Mahtomedi, 8 PM</li>
 <li>RHINO, Ziggy’s, Stillwater, 8:30 PM</li>
+<li><a href="https://tinyurl.com/yub6mzco">Trifecta of Tribute Bands</a>, Jersey’s, Inver Grove, 9 PM
+<ul>
+<li>Queen of the Ryche (Queensryche Tribute)</li>
+<li>The Hybrid Theory (Linkin Park Tribute)</li>
+<li>Mötley Sixx (Motley Crue Tribute)</li>
+</ul>
+</li>
+<li>Show Me Your Hits, Ziggy’s, Hudson, 9 PM</li>
 </ul>
 <h2 id="oct-27-fri">Oct 27 (Fri)</h2>
 <ul>
