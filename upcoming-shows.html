@@ -11,6 +11,7 @@
 <body class="stackedit">
   <div class="stackedit__html"><h2 id="nov-10-fri">Nov 10 (Fri)</h2>
 <ul>
+<li>Faster Pussycat/Jason Charles Miller/Of Limbo, Skyway Theatre Studio, 7PM DOORS / 8PM SHOW, $30 ADV</li>
 <li>Skillet/Theory of a Deadman, Armory, Mpls, 7 PM</li>
 <li>Billy Joel/Stevie Nicks, US Bank Stadium, Mpls</li>
 <li>Blitz (80s), Neisen’s, Savage, 8:30 PM - 12:30 AM</li>
