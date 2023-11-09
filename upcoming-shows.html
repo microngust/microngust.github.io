@@ -34,7 +34,7 @@
 </ul>
 <h2 id="nov-18-sat">Nov 18 (Sat)</h2>
 <ul>
-<li>The HYPE (private event), Shakopee Bowl</li>
+<li>The HYPE, Shakopee Bowl, Shakopee</li>
 <li>The Eagles, Xcel, St. Paul</li>
 <li>Rebel Queens, Neisen’s, Savage, 8:30 PM - 12:30 AM</li>
 <li>RHX, Ziggy’s, Sillwater, 9 PM - 1 AM</li>
