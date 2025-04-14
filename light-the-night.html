@@ -1,0 +1,1541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Light the Night | Official Website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #ff3e3e;
+            --secondary-color: #3e0c34;
+            --dark-bg: #111111;
+            --text-color: #ffffff;
+            --text-muted: #b3b3b3;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        a {
+            color: var(--text-color);
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--primary-color);
+        }
+
+        .container {
+            width: 85%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header & Navigation */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            padding: 20px 0;
+            transition: background-color 0.3s ease;
+        }
+
+        header.scrolled {
+            background-color: rgba(10, 10, 10, 0.95);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+        }
+
+        .logo span {
+            color: var(--primary-color);
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-links li {
+            margin-left: 2rem;
+            position: relative;
+        }
+
+        .nav-links a {
+            font-weight: 500;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            position: relative;
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background-color: var(--primary-color);
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        .hamburger {
+            display: none;
+            cursor: pointer;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('/api/placeholder/1920/1080');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(255,62,62,0.2) 0%, rgba(0,0,0,0) 70%);
+        }
+
+        .hero-content {
+            text-align: center;
+            z-index: 1;
+        }
+
+        .hero-title {
+            font-size: 5rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+        }
+
+        .hero-title span {
+            color: var(--primary-color);
+        }
+
+        .hero-subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            font-weight: 300;
+            text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+        }
+
+        .hero-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 30px;
+            font-weight: 600;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+            letter-spacing: 1px;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background-color: #ff1f1f;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(255, 62, 62, 0.3);
+        }
+
+        .btn-outline {
+            background-color: transparent;
+            color: white;
+            border: 2px solid white;
+        }
+
+        .btn-outline:hover {
+            background-color: white;
+            color: var(--dark-bg);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
+        }
+
+        /* Latest Release Section */
+        .section {
+            padding: 100px 0;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 60px;
+            position: relative;
+        }
+
+        .section-title h2 {
+            font-size: 2.5rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            position: relative;
+            display: inline-block;
+            padding-bottom: 15px;
+        }
+
+        .section-title h2::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background-color: var(--primary-color);
+        }
+
+        .latest-release {
+            background-color: var(--darker-bg);
+        }
+
+        .release-container {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .release-cover {
+            flex: 1;
+            min-width: 300px;
+            padding: 20px;
+        }
+
+        .release-cover img {
+            width: 100%;
+            max-width: 400px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            border-radius: 5px;
+            transition: transform 0.3s ease;
+        }
+
+        .release-cover img:hover {
+            transform: scale(1.03);
+        }
+
+        .release-info {
+            flex: 1;
+            min-width: 300px;
+            padding: 20px;
+        }
+
+        .release-title {
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+        }
+
+        .release-date {
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+            font-style: italic;
+        }
+
+        .release-description {
+            margin-bottom: 2rem;
+            line-height: 1.8;
+        }
+
+        .streaming-links {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .streaming-link {
+            font-size: 1.5rem;
+            color: var(--text-muted);
+            transition: all 0.3s ease;
+        }
+
+        .streaming-link:hover {
+            color: var(--primary-color);
+            transform: translateY(-3px);
+        }
+
+        /* Tour Dates Section */
+        .tour-dates {
+            background-color: var(--dark-bg);
+        }
+
+        .tour-list {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .tour-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 25px 30px;
+            margin-bottom: 20px;
+            background-color: rgba(255, 255, 255, 0.05);
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .tour-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            background-color: rgba(255, 62, 62, 0.1);
+        }
+
+        .tour-info {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+
+        .tour-date {
+            min-width: 70px;
+            text-align: center;
+        }
+
+        .tour-day {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1;
+        }
+
+        .tour-month {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 1px;
+        }
+
+        .tour-location h3 {
+            font-size: 1.2rem;
+            margin-bottom: 5px;
+        }
+
+        .tour-venue {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .tour-button .btn {
+            padding: 10px 20px;
+            font-size: 0.8rem;
+        }
+
+        /* Band Members Section */
+        .band-members {
+            background-color: var(--darker-bg);
+        }
+
+        .members-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 40px;
+        }
+
+        .member-card {
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            border-radius: 5px;
+            background-color: rgba(255, 255, 255, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .member-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        .member-image {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            transition: all 0.5s ease;
+        }
+
+        .member-card:hover .member-image {
+            transform: scale(1.05);
+        }
+
+        .member-info {
+            padding: 20px;
+        }
+
+        .member-name {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .member-role {
+            color: var(--primary-color);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .member-bio {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+        }
+
+        .member-social {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .member-social a {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .member-social a:hover {
+            background-color: var(--primary-color);
+            transform: translateY(-3px);
+        }
+
+        /* Gallery Section */
+        .gallery {
+            background-color: var(--dark-bg);
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .gallery-item {
+            position: relative;
+            height: 250px;
+            overflow: hidden;
+            border-radius: 5px;
+        }
+
+        .gallery-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: all 0.5s ease;
+        }
+
+        .gallery-item:hover .gallery-image {
+            transform: scale(1.1);
+        }
+
+        .gallery-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: all 0.3s ease;
+        }
+
+        .gallery-item:hover .gallery-overlay {
+            opacity: 1;
+        }
+
+        .gallery-icon {
+            font-size: 2.5rem;
+            color: white;
+            transform: scale(0.5);
+            transition: all 0.3s ease;
+        }
+
+        .gallery-item:hover .gallery-icon {
+            transform: scale(1);
+        }
+
+        /* Music Section */
+        .music {
+            background-color: var(--darker-bg);
+        }
+
+        .music-container {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .music-item {
+            background-color: rgba(255, 255, 255, 0.05);
+            border-radius: 5px;
+            padding: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .music-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .music-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .music-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .music-album {
+            color: var(--text-muted);
+            font-style: italic;
+            font-size: 0.9rem;
+        }
+
+        .music-player {
+            width: 100%;
+            margin-bottom: 15px;
+        }
+
+        .music-player audio {
+            width: 100%;
+            height: 40px;
+        }
+
+        .music-links {
+            display: flex;
+            gap: 15px;
+        }
+
+        .music-links a {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            transition: all 0.3s ease;
+        }
+
+        .music-links a:hover {
+            color: var(--primary-color);
+        }
+
+        /* Videos Section */
+        .videos {
+            background-color: var(--dark-bg);
+        }
+
+        .videos-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .video-item {
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .video-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+        }
+
+        .video-frame {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .video-info {
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+        .video-title {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .video-description {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        /* Contact Section */
+        .contact {
+            background-color: var(--darker-bg);
+        }
+
+        .contact-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+        }
+
+        .contact-info {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .contact-title {
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .contact-text {
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            line-height: 1.8;
+        }
+
+        .contact-list {
+            list-style: none;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .contact-icon {
+            width: 50px;
+            height: 50px;
+            background-color: rgba(255, 255, 255, 0.05);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            margin-right: 20px;
+            color: var(--primary-color);
+        }
+
+        .contact-details h3 {
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+
+        .contact-details p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .contact-form {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-control {
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 12px 15px;
+            border-radius: 5px;
+            color: white;
+            font-family: inherit;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        textarea.form-control {
+            min-height: 150px;
+            resize: vertical;
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--darker-bg);
+            padding: 80px 0 30px;
+        }
+
+        .footer-content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 40px;
+            margin-bottom: 50px;
+        }
+
+        .footer-col {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .footer-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        .footer-logo span {
+            color: var(--primary-color);
+        }
+
+        .footer-text {
+            margin-bottom: 20px;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            line-height: 1.8;
+        }
+
+        .footer-social {
+            display: flex;
+            gap: 15px;
+        }
+
+        .footer-social a {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .footer-social a:hover {
+            background-color: var(--primary-color);
+            transform: translateY(-3px);
+        }
+
+        .footer-title {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        .footer-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 40px;
+            height: 2px;
+            background-color: var(--primary-color);
+        }
+
+        .footer-links {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 10px;
+        }
+
+        .footer-links a {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--primary-color);
+            padding-left: 5px;
+        }
+
+        .footer-newsletter p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        .newsletter-form {
+            display: flex;
+        }
+
+        .newsletter-input {
+            flex: 1;
+            background-color: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 10px 15px;
+            border-radius: 30px 0 0 30px;
+            color: white;
+            font-family: inherit;
+            font-size: 0.9rem;
+        }
+
+        .newsletter-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+
+        .newsletter-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 0 20px;
+            border-radius: 0 30px 30px 0;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .newsletter-btn:hover {
+            background-color: #ff1f1f;
+        }
+
+        .footer-bottom {
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            padding-top: 30px;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 992px) {
+            .hero-title {
+                font-size: 4rem;
+            }
+
+            .nav-links {
+                position: fixed;
+                top: 0;
+                right: -100%;
+                height: 100vh;
+                width: 300px;
+                background-color: var(--darker-bg);
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                transition: right 0.5s ease;
+                z-index: 999;
+            }
+
+            .nav-links.active {
+                right: 0;
+            }
+
+            .nav-links li {
+                margin: 20px 0;
+            }
+
+            .hamburger {
+                display: block;
+                z-index: 1000;
+            }
+
+            .hamburger .bar {
+                display: block;
+                width: 25px;
+                height: 3px;
+                margin: 5px 0;
+                background-color: white;
+                transition: all 0.3s ease;
+            }
+
+            .hamburger.active .bar:nth-child(1) {
+                transform: translateY(8px) rotate(45deg);
+            }
+
+            .hamburger.active .bar:nth-child(2) {
+                opacity: 0;
+            }
+
+            .hamburger.active .bar:nth-child(3) {
+                transform: translateY(-8px) rotate(-45deg);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 3rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.2rem;
+            }
+
+            .tour-item {
+                flex-direction: column;
+                text-align: center;
+                gap: 20px;
+            }
+
+            .tour-info {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .members-grid {
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            }
+
+            .videos-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+
+            .section-title h2 {
+                font-size: 2rem;
+            }
+
+            .container {
+                width: 90%;
+            }
+
+            .hero-buttons {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <a href="#" class="logo">LIGHT<span>THE</span>NIGHT</a>
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#music">Music</a></li>
+                    <li><a href="#tour">Tour</a></li>
+                    <li><a href="#band">Band</a></li>
+                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="#videos">Videos</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <h1 class="hero-title">LIGHT<span>THE</span>NIGHT</h1>
+            <p class="hero-subtitle">Illuminating the darkness with electrifying rock</p>
+            <div class="hero-buttons">
+                <a href="#tour" class="btn btn-primary">Upcoming Shows</a>
+                <a href="#music" class="btn btn-outline">Latest Release</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Latest Release Section -->
+    <section class="section latest-release" id="music">
+        <div class="container">
+            <div class="section-title">
+                <h2>Latest Release</h2>
+            </div>
+            <div class="release-container">
+                <div class="release-cover">
+                    <img src="/api/placeholder/500/500" alt="Album Cover - Shadows & Light">
+                </div>
+                <div class="release-info">
+                    <h3 class="release-title">Shadows & Light</h3>
+                    <p class="release-date">Released: March 15, 2025</p>
+                    <p class="release-description">
+                        Our most ambitious album to date, "Shadows & Light" explores the duality of human existence through thundering riffs, soaring melodies, and lyrics that delve into both darkness and hope. Produced by legendary rock producer Alex Wharton, this 12-track journey represents our musical evolution while staying true to our raw, energetic sound.
+                    </p>
+                    <div class="streaming-links">
+                        <a href="#" class="streaming-link"><i class="fab fa-spotify"></i></a>
+                        <a href="#" class="streaming-link"><i class="fab fa-apple"></i></a>
+                        <a href="#" class="streaming-link"><i class="fab fa-amazon"></i></a>
+                        <a href="#" class="streaming-link"><i class="fab fa-youtube"></i></a>
+                        <a href="#" class="streaming-link"><i class="fab fa-soundcloud"></i></a>
+                        <a href="#" class="streaming-link"><i class="fab fa-bandcamp"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Tour Dates Section -->
+    <section class="section tour-dates" id="tour">
+        <div class="container">
+            <div class="section-title">
+                <h2>Tour Dates</h2>
+            </div>
+            <div class="tour-list">
+                <div class="tour-item">
+                    <div class="tour-info">
+                        <div class="tour-date">
+                            <p class="tour-day">15</p>
+                            <p class="tour-month">May</p>
+                        </div>
+                        <div class="tour-location">
+                            <h3>New York, NY</h3>
+                            <p class="tour-venue">Madison Square Garden</p>
+                        </div>
+                    </div>
+                    <div class="tour-button">
+                        <a href="#" class="btn btn-primary">Get Tickets</a>
+                    </div>
+                </div>
+
+                <div class="tour-item">
+                    <div class="tour-info">
+                        <div class="tour-date">
+                            <p class="tour-day">22</p>
+                            <p class="tour-month">May</p>
+                        </div>
+                        <div class="tour-location">
+                            <h3>Boston, MA</h3>
+                            <p class="tour-venue">Paradise Rock Club</p>
+                        </div>
+                    </div>
+                    <div class="tour-button">
+                        <a href="#" class="btn btn-primary">Get Tickets</a>
+                    </div>
+                </div>
+
+                <div class="tour-item">
+                    <div class="tour-info">
+                        <div class="tour-date">
+                            <p class="tour-day">29</p>
+                            <p class="tour-month">May</p>
+                        </div>
+                        <div class="tour-location">
+                            <h3>Chicago, IL</h3>
+                            <p class="tour-venue">The Vic Theatre</p>
+                        </div>
+                    </div>
+                    <div class="tour-button">
+                        <a href="#" class="btn btn-primary">Get Tickets</a>
+                    </div>
+                </div>
+
+                <div class="tour-item">
+                    <div class="tour-info">
+                        <div class="tour-date">
+                            <p class="tour-day">05</p>
+                            <p class="tour-month">Jun</p>
+                        </div>
+                        <div class="tour-location">
+                            <h3>Austin, TX</h3>
+                            <p class="tour-venue">Stubb's Bar-B-Q</p>
+                        </div>
+                    </div>
+                    <div class="tour-button">
+                        <a href="#" class="btn btn-primary">Get Tickets</a>
+                    </div>
+                </div>
+
+                <div class="tour-item">
+                    <div class="tour-info">
+                        <div class="tour-date">
+                            <p class="tour-day">12</p>
+                            <p class="tour-month">Jun</p>
+                        </div>
+                        <div class="tour-location">
+                            <h3>Los Angeles, CA</h3>
+                            <p class="tour-venue">The Wiltern</p>
+                        </div>
+                    </div>
+                    <div class="tour-button">
+                        <a href="#" class="btn btn-primary">Get Tickets</a>
+                    </div>
+                </div>
+
+                <div class="tour-item">
+                    <div class="tour-info">
+                        <div class="tour-date">
+                            <p class="tour-day">20</p>
+                            <p class="tour-month">Jun</p>
+                        </div>
+                        <div class="tour-location">
+                            <h3>Seattle, WA</h3>
+                            <p class="tour-venue">The Showbox</p>
+                        </div>
+                    </div>
+                    <div class="tour-button">
+                        <a href="#" class="btn btn-primary">Get Tickets</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Band Members Section -->
+    <section class="section band-members" id="band">
+        <div class="container">
+            <div class="section-title">
+                <h2>Meet The Band</h2>
+            </div>
+            <div class="members-grid">
+                <div class="member-card">
+                    <img src="/api/placeholder/400/400" alt="Mark Gust" class="member-image">
+                    <div class="member-info">
+                        <h3 class="member-name">Mark Gust</h3>
+                        <p class="member-role">Lead Vocals & Guitar</p>
+                        <p class="member-bio">Founder of Light the Night, Mark's powerful vocals and innovative guitar work have defined the band's signature sound since 2023.</p>
+                        <div class="member-social">
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="member-card">
+                    <img src="/api/placeholder/400/400" alt="Micron Gust" class="member-image">
+                    <div class="member-info">
+                        <h3 class="member-name">Micron Gust</h3>
+                        <p class="member-role">Lead Guitar</p>
+                        <p class="member-bio">With sonic layers and melodic runs, Micron's distinctive synth playing brings a unique edge to the band's sound..</p>
+                        <div class="member-social">
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="member-card">
+                    <img src="/api/placeholder/400/400" alt="Randy Daniels" class="member-image">
+                    <div class="member-info">
+                        <h3 class="member-name">Randy Daniels</h3>
+                        <p class="member-role">Bass</p>
+                        <p class="member-bio">The rhythmic backbone of Light the Night, Randy's thundering bass lines drive the band's energetic performances.</p>
+                        <div class="member-social">
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="member-card">
+                    <img src="/api/placeholder/400/400" alt="Bolt Lightning" class="member-image">
+                    <div class="member-info">
+                        <h3 class="member-name">Bolt Lightning</h3>
+                        <p class="member-role">Drums</p>
+                        <p class="member-bio">With precision and power, Bolt's dynamic drumming adds both intensity and nuance to the band's explosive sound.</p>
+                        <div class="member-social">
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="section gallery" id="gallery">
+        <div class="container">
+            <div class="section-title">
+                <h2>Gallery</h2>
+            </div>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="/api/placeholder/600/400" alt="Concert Photo 1" class="gallery-image">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-search-plus gallery-icon"></i>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="/api/placeholder/600/400" alt="Concert Photo 2" class="gallery-image">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-search-plus gallery-icon"></i>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="/api/placeholder/600/400" alt="Concert Photo 3" class="gallery-image">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-search-plus gallery-icon"></i>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="/api/placeholder/600/400" alt="Concert Photo 4" class="gallery-image">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-search-plus gallery-icon"></i>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="/api/placeholder/600/400" alt="Concert Photo 5" class="gallery-image">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-search-plus gallery-icon"></i>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="/api/placeholder/600/400" alt="Concert Photo 6" class="gallery-image">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-search-plus gallery-icon"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Music Section -->
+    <section class="section music">
+        <div class="container">
+            <div class="section-title">
+                <h2>Our Music</h2>
+            </div>
+            <div class="music-container">
+                <div class="music-item">
+                    <div class="music-header">
+                        <div>
+                            <h3 class="music-title">Electric Dreams</h3>
+                            <p class="music-album">From: Shadows & Light (2025)</p>
+                        </div>
+                    </div>
+                    <div class="music-player">
+                        <audio controls>
+                            <source src="#" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </div>
+                    <div class="music-links">
+                        <a href="#"><i class="fab fa-spotify"></i> Spotify</a>
+                        <a href="#"><i class="fab fa-apple"></i> Apple Music</a>
+                        <a href="#"><i class="fab fa-youtube"></i> YouTube</a>
+                    </div>
+                </div>
+
+                <div class="music-item">
+                    <div class="music-header">
+                        <div>
+                            <h3 class="music-title">Midnight Run</h3>
+                            <p class="music-album">From: Shadows & Light (2025)</p>
+                        </div>
+                    </div>
+                    <div class="music-player">
+                        <audio controls>
+                            <source src="#" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </div>
+                    <div class="music-links">
+                        <a href="#"><i class="fab fa-spotify"></i> Spotify</a>
+                        <a href="#"><i class="fab fa-apple"></i> Apple Music</a>
+                        <a href="#"><i class="fab fa-youtube"></i> YouTube</a>
+                    </div>
+                </div>
+
+                <div class="music-item">
+                    <div class="music-header">
+                        <div>
+                            <h3 class="music-title">Echoes of Yesterday</h3>
+                            <p class="music-album">From: Neon Wilderness (2023)</p>
+                        </div>
+                    </div>
+                    <div class="music-player">
+                        <audio controls>
+                            <source src="#" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </div>
+                    <div class="music-links">
+                        <a href="#"><i class="fab fa-spotify"></i> Spotify</a>
+                        <a href="#"><i class="fab fa-apple"></i> Apple Music</a>
+                        <a href="#"><i class="fab fa-youtube"></i> YouTube</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Videos Section -->
+    <section class="section videos" id="videos">
+        <div class="container">
+            <div class="section-title">
+                <h2>Videos</h2>
+            </div>
+            <div class="videos-container">
+                <div class="video-item">
+                    <div class="video-wrapper">
+                        <img src="/api/placeholder/600/338" alt="Video thumbnail" class="video-frame">
+                    </div>
+                    <div class="video-info">
+                        <h3 class="video-title">Electric Dreams - Official Music Video</h3>
+                        <p class="video-description">Our latest single from the album "Shadows & Light"</p>
+                    </div>
+                </div>
+
+                <div class="video-item">
+                    <div class="video-wrapper">
+                        <img src="/api/placeholder/600/338" alt="Video thumbnail" class="video-frame">
+                    </div>
+                    <div class="video-info">
+                        <h3 class="video-title">Behind The Scenes - Shadows & Light</h3>
+                        <p class="video-description">Go behind the scenes of our latest album recording</p>
+                    </div>
+                </div>
+
+                <div class="video-item">
+                    <div class="video-wrapper">
+                        <img src="/api/placeholder/600/338" alt="Video thumbnail" class="video-frame">
+                    </div>
+                    <div class="video-info">
+                        <h3 class="video-title">Live at Madison Square Garden</h3>
+                        <p class="video-description">Highlights from our sold-out show in NYC</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section contact" id="contact">
+        <div class="container">
+            <div class="section-title">
+                <h2>Get In Touch</h2>
+            </div>
+            <div class="contact-container">
+                <div class="contact-info">
+                    <h3 class="contact-title">Contact Information</h3>
+                    <p class="contact-text">
+                        Have a question about upcoming shows? Want to book us for a private event? Looking for press information? We'd love to hear from you! Drop us a message and our team will get back to you as soon as possible.
+                    </p>
+                    <ul class="contact-list">
+                        <li class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Email</h3>
+                                <p>info@lightthenight.com</p>
+                            </div>
+                        </li>
+                        <li class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Phone</h3>
+                                <p>+1 (555) 123-4567</p>
+                            </div>
+                        </li>
+                        <li class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Management</h3>
+                                <p>Starlight Management, New York, NY</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="contact-form">
+                    <form action="#" method="POST">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Subject">
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" placeholder="Your Message" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col">
+                    <a href="#" class="footer-logo">LIGHT<span>THE</span>NIGHT</a>
+                    <p class="footer-text">
+                        Illuminating the darkness with electrifying rock since 2015. Light the Night continues to push boundaries with their dynamic sound and unforgettable live performances.
+                    </p>
+                    <div class="footer-social">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-spotify"></i></a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h3 class="footer-title">Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#music">Music</a></li>
+                        <li><a href="#tour">Tour</a></li>
+                        <li><a href="#band">Band</a></li>
+                        <li><a href="#gallery">Gallery</a></li>
+                        <li><a href="#videos">Videos</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3 class="footer-title">Latest News</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">New Album "Shadows & Light" Out Now!</a></li>
+                        <li><a href="#">Summer Tour Dates Announced</a></li>
+                        <li><a href="#">"Electric Dreams" Hits #1 on Rock Charts</a></li>
+                        <li><a href="#">European Tour Coming This Fall</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col footer-newsletter">
+                    <h3 class="footer-title">Newsletter</h3>
+                    <p>Subscribe to our newsletter for exclusive updates, behind-the-scenes content, and early access to tickets.</p>
+                    <form class="newsletter-form">
+                        <input type="email" class="newsletter-input" placeholder="Your Email" required>
+                        <button type="submit" class="newsletter-btn"><i class="fas fa-paper-plane"></i></button>
+                    </form>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Light the Night. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // Navigation toggle
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
+
+        hamburger.addEventListener('click', () => {
+            hamburger.classList.toggle('active');
+            navLinks.classList.toggle('active');
+        });
+
+        // Close menu when clicking a nav link
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                hamburger.classList.remove('active');
+                navLinks.classList.remove('active');
+            });
+        });
+
+        // Header background on scroll
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 50) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+
+                if (targetElement) {
+                    window.scrollTo({
+                        top: targetElement.offsetTop - 70,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
